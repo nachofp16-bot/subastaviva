@@ -97,9 +97,9 @@ body{font-family:'Segoe UI',Tahoma,sans-serif;background:#f3f4f6;color:#1a1a1a}
 </div>
 
 <section class="hero">
-  <div class="hero-badge">Valencia · Actualización diaria</div>
+  <div class="hero-badge">6 provincias · Actualización diaria</div>
   <h1>Subastas inmobiliarias del BOE<br><span>filtradas y listas para pujar</span></h1>
-  <p>Encuentra pisos, casas y locales en subasta judicial en la provincia de Valencia. Datos directos del portal oficial del Estado, organizados para que no te pierdas ninguna oportunidad.</p>
+  <p>Encuentra pisos, casas y locales en subasta judicial en Valencia, Madrid, Barcelona, Alicante, Málaga y Sevilla. Datos directos del portal oficial del Estado, organizados para que no te pierdas ninguna oportunidad.</p>
   <div class="hero-btns">
     <a href="subastas.html" class="btn-primary">Ver subastas activas →</a>
     <a href="https://subastas.boe.es" target="_blank" class="btn-secondary">Portal BOE ↗</a>
@@ -120,8 +120,8 @@ body{font-family:'Segoe UI',Tahoma,sans-serif;background:#f3f4f6;color:#1a1a1a}
     <span class="stat-lbl">Vencen hoy</span>
   </div>
   <div class="stat-item">
-    <span class="stat-num">1</span>
-    <span class="stat-lbl">Provincia</span>
+    <span class="stat-num" id="stat-provincias">6</span>
+    <span class="stat-lbl">Provincias</span>
   </div>
 </div>
 
@@ -150,9 +150,9 @@ body{font-family:'Segoe UI',Tahoma,sans-serif;background:#f3f4f6;color:#1a1a1a}
       <p>El listado se refresca cada mañana con las subastas activas más recientes del BOE.</p>
     </div>
     <div class="feat">
-      <div class="feat-icon">🔎</div>
-      <h3>Filtro por municipio</h3>
-      <p>Busca por Valencia capital, Gandia, Sagunto o cualquier municipio de la provincia.</p>
+      <div class="feat-icon">🗺️</div>
+      <h3>6 provincias cubiertas</h3>
+      <p>Valencia, Madrid, Barcelona, Alicante, Málaga y Sevilla. Con filtro por provincia y municipio.</p>
     </div>
     <div class="feat">
       <div class="feat-icon">⚡</div>
@@ -164,7 +164,7 @@ body{font-family:'Segoe UI',Tahoma,sans-serif;background:#f3f4f6;color:#1a1a1a}
 
 <section class="cta-section">
   <h2>¿Listo para encontrar tu próxima inversión?</h2>
-  <p>Consulta todas las subastas activas en Valencia ahora mismo.</p>
+  <p>Consulta todas las subastas activas en 6 provincias ahora mismo.</p>
   <a href="subastas.html" class="btn-cta-white">Ver subastas activas →</a>
 </section>
 
@@ -186,10 +186,12 @@ fetch('latest.json?t=' + Date.now())
       var d = s.fecha_fin.split(' ')[0];
       return d === hoy;
     }).length;
+    var provincias = new Set(subastas.map(s => s.provincia).filter(Boolean)).size;
 
     document.getElementById('stat-viviendas').textContent = viviendas;
     document.getElementById('stat-total').textContent = total;
     document.getElementById('stat-urgentes').textContent = urgentes;
+    if (provincias > 0) document.getElementById('stat-provincias').textContent = provincias;
 
     var bar = document.getElementById('update-bar');
     var fechaEl = document.getElementById('update-fecha');

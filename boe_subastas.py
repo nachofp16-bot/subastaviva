@@ -21,7 +21,14 @@ import webbrowser
 # ============================================================
 # CONFIGURACION
 # ============================================================
-PROVINCIA_CODIGO = '46'       # Valencia
+PROVINCIAS = {
+    '46': 'Valencia',
+    '28': 'Madrid',
+    '08': 'Barcelona',
+    '03': 'Alicante',
+    '29': 'Málaga',
+    '41': 'Sevilla',
+}
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CARPETA_INFORMES = os.path.join(SCRIPT_DIR, 'informes')
 CARPETA_WEB = os.path.join(SCRIPT_DIR, 'web')
@@ -41,7 +48,7 @@ KEYWORDS_VIVIENDA = [
 # ============================================================
 # BUSQUEDA
 # ============================================================
-def buscar_subastas(session):
+def buscar_subastas(session, codigo):
     """Realiza la busqueda POST en el portal BOE y devuelve el HTML."""
     headers = {
         'User-Agent': (
@@ -65,7 +72,7 @@ def buscar_subastas(session):
         'campo[3]': 'BIEN.TIPO',
         'dato[3]': 'I',            # I = Inmueble
         'campo[8]': 'BIEN.COD_PROVINCIA',
-        'dato[8]': PROVINCIA_CODIGO,
+        'dato[8]': codigo,
         'page_hits': '500',
         'accion': 'Buscar',
     }
@@ -184,14 +191,14 @@ def _validar_muni(muni):
 # ============================================================
 # PARSEO DE RESULTADOS
 # ============================================================
-def parsear_subastas(html):
+def parsear_subastas(html, provincia='Valencia'):
     """Extrae la lista de subastas del HTML de resultados."""
     soup = BeautifulSoup(html, 'html.parser')
     subastas = []
 
     # Cada subasta es un <li class="resultado-busqueda">
     items = soup.find_all('li', class_='resultado-busqueda')
-    print(f'  -> {len(items)} inmuebles encontrados en Valencia')
+    print(f'  -> {len(items)} inmuebles encontrados en {provincia}')
 
     for item in items:
         subasta = {}
@@ -245,6 +252,9 @@ def parsear_subastas(html):
 
         # --- Municipio ---
         subasta['municipio'] = extraer_municipio(subasta['descripcion'])
+
+        # --- Provincia ---
+        subasta['provincia'] = provincia
 
         subastas.append(subasta)
 
@@ -502,7 +512,9 @@ def generar_html(subastas, fecha, page_title='Subastas BOE Valencia', historico=
         puja_min    = fmt_precio(s.get('puja_minima', ''))
         deposito    = fmt_precio(s.get('deposito', ''))
 
+        prov     = s.get('provincia', '')
         badge    = '<span class="badge">VIVIENDA</span>' if es_viv else ''
+        badge_prov = f'<span class="badge badge-prov">{prov}</span>' if prov else ''
         border   = 'card-viv' if es_viv else 'card-otro'
         maps_url = url_google_maps(descripcion)
         resumen  = resumir(descripcion)
@@ -545,11 +557,13 @@ def generar_html(subastas, fecha, page_title='Subastas BOE Valencia', historico=
         bloque_resumen = f'<p class="resumen">{resumen}</p>' if resumen else ''
         municipio = s.get('municipio', '')
         data_muni = f'data-municipio="{municipio}"' if municipio else ''
+        data_prov = f'data-provincia="{prov}"' if prov else ''
 
         return f"""
-        <div class="card {border}" {data_muni}>
+        <div class="card {border}" {data_muni} {data_prov}>
           <div class="card-head">
             {badge}
+            {badge_prov}
             <span class="card-id">{titulo}</span>
           </div>
           {bloque_resumen}
@@ -584,23 +598,38 @@ def generar_html(subastas, fecha, page_title='Subastas BOE Valencia', historico=
         )
 
     if not subastas:
-        contenido = '<div class="empty">No se encontraron subastas de inmuebles activas en Valencia.</div>'
+        contenido = '<div class="empty">No se encontraron subastas de inmuebles activas.</div>'
     else:
         contenido = sec_viviendas + sec_otros
+
+    # Barra de filtros: provincias
+    provincias_presentes = sorted(set(s['provincia'] for s in subastas if s.get('provincia')))
+    botones_prov = ''.join(
+        f'<button class="filtro filtro-prov" onclick="filtrarProv(this)" data-prov="{p}">{p}</button>'
+        for p in provincias_presentes
+    )
+    barra_provincias = f"""
+    <div class="filtros-wrap">
+      <span class="filtros-label">Provincia:</span>
+      <div class="filtros" id="filtros-prov">
+        <button class="filtro filtro-prov activo" onclick="filtrarProv(this)" data-prov="">Todas</button>
+        {botones_prov}
+      </div>
+    </div>""" if len(provincias_presentes) > 1 else ''
 
     # Barra de filtros: municipios con al menos 1 subasta, ordenados
     municipios = sorted(set(
         s['municipio'] for s in subastas if s.get('municipio')
     ))
     botones_filtro = ''.join(
-        f'<button class="filtro" onclick="filtrar(this)" data-muni="{m}">{m}</button>'
+        f'<button class="filtro filtro-muni" onclick="filtrar(this)" data-muni="{m}">{m}</button>'
         for m in municipios
     )
     barra_filtros = f"""
     <div class="filtros-wrap">
-      <span class="filtros-label">Filtrar por municipio:</span>
-      <div class="filtros">
-        <button class="filtro activo" onclick="filtrar(this)" data-muni="">Todos</button>
+      <span class="filtros-label">Municipio:</span>
+      <div class="filtros" id="filtros-muni">
+        <button class="filtro filtro-muni activo" onclick="filtrar(this)" data-muni="">Todos</button>
         {botones_filtro}
       </div>
     </div>""" if municipios else ''
@@ -648,6 +677,8 @@ body{{font-family:'Segoe UI',Tahoma,sans-serif;background:#f3f4f6;color:#1a1a1a}
 .card-head{{display:flex;align-items:center;gap:8px;margin-bottom:6px;flex-wrap:wrap}}
 .badge{{background:#b71c1c;color:#fff;font-size:10px;font-weight:700;
   padding:2px 7px;border-radius:3px;letter-spacing:.4px}}
+.badge-prov{{background:#374151;color:#fff;font-size:10px;font-weight:600;
+  padding:2px 7px;border-radius:3px;letter-spacing:.3px}}
 .card-id{{font-size:12px;font-weight:600;color:#6b7280}}
 .resumen{{font-size:15px;font-weight:700;color:#111827;margin-bottom:6px}}
 .desc-bien{{font-size:13px;color:#6b7280;margin-bottom:4px;line-height:1.5}}
@@ -708,6 +739,7 @@ body{{font-family:'Segoe UI',Tahoma,sans-serif;background:#f3f4f6;color:#1a1a1a}
   <div class="stat"><strong>{n_viviendas}</strong><span>Viviendas</span></div>
   <div class="stat"><strong>{n_total}</strong><span>Total inmuebles</span></div>
 </div>
+{barra_provincias}
 {barra_filtros}
 <div class="wrap" id="listado">
 {contenido}
@@ -726,18 +758,14 @@ function colapsar(btn) {{
   p.querySelector('.desc-corta').style.display = '';
   p.querySelector('.desc-completa').style.display = 'none';
 }}
-function filtrar(btn) {{
-  document.querySelectorAll('.filtro').forEach(b => b.classList.remove('activo'));
-  btn.classList.add('activo');
-  var muni = btn.dataset.muni;
+var _provActiva = '';
+var _muniActiva = '';
+function aplicarFiltros() {{
   document.querySelectorAll('#listado .card').forEach(function(card) {{
-    if (!muni || card.dataset.municipio === muni) {{
-      card.style.display = '';
-    }} else {{
-      card.style.display = 'none';
-    }}
+    var okProv = !_provActiva || card.dataset.provincia === _provActiva;
+    var okMuni = !_muniActiva || card.dataset.municipio === _muniActiva;
+    card.style.display = (okProv && okMuni) ? '' : 'none';
   }});
-  // Ocultar titulos de seccion si todos sus hijos están ocultos
   document.querySelectorAll('#listado .sec-titulo').forEach(function(h) {{
     var next = h.nextElementSibling;
     var visible = false;
@@ -748,9 +776,35 @@ function filtrar(btn) {{
     h.style.display = visible ? '' : 'none';
   }});
 }}
+function filtrarProv(btn) {{
+  document.querySelectorAll('.filtro-prov').forEach(b => b.classList.remove('activo'));
+  btn.classList.add('activo');
+  _provActiva = btn.dataset.prov || '';
+  _muniActiva = '';
+  document.querySelectorAll('.filtro-muni').forEach(b => b.classList.remove('activo'));
+  var todos = document.querySelector('.filtro-muni[data-muni=""]');
+  if (todos) todos.classList.add('activo');
+  // Actualizar visibilidad de botones de municipio
+  var munis = new Set();
+  document.querySelectorAll('#listado .card').forEach(function(card) {{
+    if (!_provActiva || card.dataset.provincia === _provActiva) {{
+      if (card.dataset.municipio) munis.add(card.dataset.municipio);
+    }}
+  }});
+  document.querySelectorAll('.filtro-muni:not([data-muni=""])').forEach(function(b) {{
+    b.style.display = munis.has(b.dataset.muni) ? '' : 'none';
+  }});
+  aplicarFiltros();
+}}
+function filtrar(btn) {{
+  document.querySelectorAll('.filtro-muni').forEach(b => b.classList.remove('activo'));
+  btn.classList.add('activo');
+  _muniActiva = btn.dataset.muni || '';
+  aplicarFiltros();
+}}
 </script>
 </body>
-</html>""", f'Subastas_Valencia_{fecha_archivo}.html'
+</html>""", f'Subastas_BOE_{fecha_archivo}.html'
 
 
 def guardar_json(subastas, fecha):
@@ -761,7 +815,7 @@ def guardar_json(subastas, fecha):
         'fecha': fecha.strftime('%d/%m/%Y %H:%M:%S'),
         'subastas': subastas,
     }
-    ruta_diaria = os.path.join(CARPETA_INFORMES, f'Subastas_Valencia_{fecha_archivo}.json')
+    ruta_diaria = os.path.join(CARPETA_INFORMES, f'Subastas_BOE_{fecha_archivo}.json')
     ruta_latest = os.path.join(CARPETA_INFORMES, 'latest.json')
     with open(ruta_diaria, 'w', encoding='utf-8') as f:
         json.dump(datos, f, ensure_ascii=False, indent=2)
@@ -773,7 +827,7 @@ def guardar_json(subastas, fecha):
 def listar_informes_historicos():
     """Devuelve la lista de informes HTML diarios ordenados de más reciente a más antiguo."""
     archivos = [f for f in os.listdir(CARPETA_INFORMES)
-                if f.startswith('Subastas_Valencia_') and f.endswith('.html')]
+                if f.startswith('Subastas_BOE_') and f.endswith('.html')]
     archivos.sort(reverse=True)
     return archivos
 
@@ -829,7 +883,7 @@ def html_a_pdf(ruta_html, ruta_pdf):
 # ============================================================
 def main():
     print('=' * 50)
-    print('  BOE Subastas Valencia')
+    print('  BOE Subastas')
     print(f'  {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}')
     print('=' * 50)
 
@@ -843,33 +897,26 @@ def main():
         pass
 
     print('\n[1/3] Buscando en subastas.boe.es...')
-    html, error = buscar_subastas(session)
+    todas_subastas = []
+    for codigo, nombre in PROVINCIAS.items():
+        html, error = buscar_subastas(session, codigo)
+        if error:
+            print(f'  [!] Error en {nombre}: {error}')
+            continue
+        if 'Se ha producido un error' in html:
+            print(f'  [!] El portal BOE devolvió un error para {nombre}')
+            continue
+        subastas_prov = parsear_subastas(html, nombre)
+        todas_subastas.extend(subastas_prov)
 
-    if error:
-        print(f'ERROR: No se pudo conectar: {error}')
-        sys.exit(1)
-
-    # Debug: guardar HTML crudo
-    if '--debug' in sys.argv:
-        ruta_debug = os.path.join(CARPETA_INFORMES, 'boe_debug.html')
-        with open(ruta_debug, 'w', encoding='utf-8') as f:
-            f.write(html)
-        print(f'  [debug] HTML guardado en {ruta_debug}')
-
-    # Comprobar error del BOE
-    if 'Se ha producido un error' in html:
-        print('ERROR: El portal BOE devolvio un error.')
-        ruta_debug = os.path.join(CARPETA_INFORMES, 'boe_debug.html')
-        with open(ruta_debug, 'w', encoding='utf-8') as f:
-            f.write(html)
-        print(f'  HTML guardado en: {ruta_debug}')
+    if not todas_subastas:
+        print('ERROR: No se pudieron obtener subastas de ninguna provincia.')
         sys.exit(1)
 
     print('[2/3] Procesando resultados...')
-    subastas = parsear_subastas(html)
-
-    n_viv = sum(1 for s in subastas if s.get('es_vivienda'))
-    print(f'  -> {n_viv} identificadas como viviendas')
+    n_viv = sum(1 for s in todas_subastas if s.get('es_vivienda'))
+    print(f'  -> {n_viv} identificadas como viviendas (total {len(todas_subastas)})')
+    subastas = todas_subastas
 
     print('[2.5/3] Obteniendo precios...')
     subastas = enriquecer_con_precios(subastas)
@@ -893,7 +940,7 @@ def main():
     html_index, _ = generar_html(
         subastas,
         fecha_ahora,
-        page_title='Subastas Valencia · Histórico',
+        page_title='Subastas BOE · Histórico',
         historico=historico,
         nav_links=[('Inicio', '../web/index.html'), ('Subastas', '../web/subastas.html'), ('Histórico', 'index.html')],
     )
@@ -904,7 +951,7 @@ def main():
     html_subastas, _ = generar_html(
         subastas,
         fecha_ahora,
-        page_title='Subastas Valencia · Activas',
+        page_title='Subastas BOE · Activas',
         historico=historico,
         historico_base='../informes/',
         nav_links=[('Inicio', 'index.html'), ('Subastas', 'subastas.html'), ('Histórico', '../informes/index.html')],
