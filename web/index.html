@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SubastaViva · Subastas inmobiliarias del BOE</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',Tahoma,sans-serif;background:#f3f4f6;color:#1a1a1a}
+
+/* NAV */
+.nav{background:#fff;border-bottom:1px solid #e5e7eb;padding:0 24px;
+  display:flex;align-items:center;justify-content:space-between;height:56px;
+  position:sticky;top:0;z-index:100;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.nav-logo{font-size:20px;font-weight:800;color:#b71c1c;letter-spacing:-.5px;text-decoration:none}
+.nav-logo span{color:#374151}
+.nav-links{display:flex;gap:6px}
+.nav-link{font-size:13px;color:#374151;text-decoration:none;font-weight:600;
+  padding:7px 14px;border-radius:999px;transition:background .15s,color .15s}
+.nav-link:hover{background:#fef2f2;color:#b71c1c}
+.nav-link.cta{background:#b71c1c;color:#fff}
+.nav-link.cta:hover{background:#7f1d1d}
+
+/* HERO */
+.hero{background:linear-gradient(135deg,#7f1d1d 0%,#b71c1c 60%,#c62828 100%);
+  color:#fff;padding:72px 24px 80px;text-align:center}
+.hero-badge{display:inline-block;background:rgba(255,255,255,.15);
+  border:1px solid rgba(255,255,255,.3);border-radius:999px;
+  font-size:11px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;
+  padding:5px 14px;margin-bottom:20px}
+.hero h1{font-size:clamp(28px,5vw,46px);font-weight:800;line-height:1.15;
+  margin-bottom:16px;letter-spacing:-.5px}
+.hero h1 span{opacity:.85}
+.hero p{font-size:17px;opacity:.88;max-width:560px;margin:0 auto 32px;line-height:1.6}
+.hero-btns{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+.btn-primary{display:inline-block;padding:13px 28px;background:#fff;
+  color:#b71c1c;border-radius:8px;font-size:15px;font-weight:700;
+  text-decoration:none;transition:transform .15s,box-shadow .15s}
+.btn-primary:hover{transform:translateY(-1px);box-shadow:0 6px 20px rgba(0,0,0,.2)}
+.btn-secondary{display:inline-block;padding:13px 28px;
+  border:2px solid rgba(255,255,255,.5);color:#fff;border-radius:8px;
+  font-size:15px;font-weight:600;text-decoration:none;transition:border-color .15s}
+.btn-secondary:hover{border-color:#fff}
+
+/* STATS BAR */
+.stats-bar{background:#fff;border-bottom:1px solid #e5e7eb;
+  display:flex;justify-content:center;gap:0;flex-wrap:wrap}
+.stat-item{padding:18px 40px;text-align:center;border-right:1px solid #e5e7eb}
+.stat-item:last-child{border-right:none}
+.stat-num{display:block;font-size:28px;font-weight:800;color:#b71c1c;line-height:1}
+.stat-lbl{display:block;font-size:11px;color:#6b7280;margin-top:4px;text-transform:uppercase;letter-spacing:.4px}
+
+/* FEATURES */
+.features{max-width:900px;margin:56px auto;padding:0 24px}
+.features-title{text-align:center;font-size:22px;font-weight:800;
+  color:#111827;margin-bottom:8px}
+.features-sub{text-align:center;font-size:14px;color:#6b7280;margin-bottom:40px}
+.features-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px}
+.feat{background:#fff;border-radius:10px;padding:24px;
+  box-shadow:0 1px 4px rgba(0,0,0,.07);border-top:3px solid #b71c1c}
+.feat-icon{font-size:26px;margin-bottom:12px}
+.feat h3{font-size:15px;font-weight:700;color:#111827;margin-bottom:6px}
+.feat p{font-size:13px;color:#6b7280;line-height:1.6}
+
+/* CTA SECTION */
+.cta-section{background:#b71c1c;color:#fff;text-align:center;padding:56px 24px}
+.cta-section h2{font-size:26px;font-weight:800;margin-bottom:10px}
+.cta-section p{font-size:15px;opacity:.88;margin-bottom:28px}
+.btn-cta-white{display:inline-block;padding:13px 32px;background:#fff;
+  color:#b71c1c;border-radius:8px;font-size:15px;font-weight:700;
+  text-decoration:none;transition:transform .15s}
+.btn-cta-white:hover{transform:translateY(-1px)}
+
+/* FOOTER */
+.footer{background:#1f2937;color:#9ca3af;text-align:center;
+  padding:24px;font-size:12px}
+.footer a{color:#e5e7eb;text-decoration:none}
+.footer a:hover{color:#fff}
+
+/* AVISO actualización */
+.update-bar{background:#fef9c3;border-bottom:1px solid #fde047;
+  text-align:center;padding:8px 16px;font-size:12px;color:#713f12}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <a class="nav-logo" href="index.html">Subasta<span>Viva</span></a>
+  <div class="nav-links">
+    <a class="nav-link" href="subastas.html">Ver subastas</a>
+    <a class="nav-link cta" href="subastas.html">Ver ahora →</a>
+  </div>
+</nav>
+
+<div class="update-bar" id="update-bar" style="display:none">
+  Datos actualizados el <strong id="update-fecha"></strong>
+</div>
+
+<section class="hero">
+  <div class="hero-badge">Valencia · Actualización diaria</div>
+  <h1>Subastas inmobiliarias del BOE<br><span>filtradas y listas para pujar</span></h1>
+  <p>Encuentra pisos, casas y locales en subasta judicial en la provincia de Valencia. Datos directos del portal oficial del Estado, organizados para que no te pierdas ninguna oportunidad.</p>
+  <div class="hero-btns">
+    <a href="subastas.html" class="btn-primary">Ver subastas activas →</a>
+    <a href="https://subastas.boe.es" target="_blank" class="btn-secondary">Portal BOE ↗</a>
+  </div>
+</section>
+
+<div class="stats-bar">
+  <div class="stat-item">
+    <span class="stat-num" id="stat-viviendas">—</span>
+    <span class="stat-lbl">Viviendas activas</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num" id="stat-total">—</span>
+    <span class="stat-lbl">Total inmuebles</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num" id="stat-urgentes">—</span>
+    <span class="stat-lbl">Vencen hoy</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-num">1</span>
+    <span class="stat-lbl">Provincia</span>
+  </div>
+</div>
+
+<section class="features">
+  <h2 class="features-title">Todo lo que necesitas saber de un vistazo</h2>
+  <p class="features-sub">Sin registros, sin suscripciones. Información pública, clara y directa.</p>
+  <div class="features-grid">
+    <div class="feat">
+      <div class="feat-icon">🏠</div>
+      <h3>Solo inmuebles</h3>
+      <p>Filtramos el ruido. Solo pisos, casas, locales y naves — sin vehículos ni otros bienes.</p>
+    </div>
+    <div class="feat">
+      <div class="feat-icon">💰</div>
+      <h3>Precios al detalle</h3>
+      <p>Tasación, puja mínima y depósito de cada subasta, extraídos directamente del BOE.</p>
+    </div>
+    <div class="feat">
+      <div class="feat-icon">📍</div>
+      <h3>Ubicación en Maps</h3>
+      <p>Enlace directo a Google Maps para cada inmueble. Localiza la propiedad en segundos.</p>
+    </div>
+    <div class="feat">
+      <div class="feat-icon">🔔</div>
+      <h3>Actualización diaria</h3>
+      <p>El listado se refresca cada mañana con las subastas activas más recientes del BOE.</p>
+    </div>
+    <div class="feat">
+      <div class="feat-icon">🔎</div>
+      <h3>Filtro por municipio</h3>
+      <p>Busca por Valencia capital, Gandia, Sagunto o cualquier municipio de la provincia.</p>
+    </div>
+    <div class="feat">
+      <div class="feat-icon">⚡</div>
+      <h3>Alertas de urgencia</h3>
+      <p>Las subastas que vencen hoy se marcan en rojo para que no se te escape ninguna.</p>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <h2>¿Listo para encontrar tu próxima inversión?</h2>
+  <p>Consulta todas las subastas activas en Valencia ahora mismo.</p>
+  <a href="subastas.html" class="btn-cta-white">Ver subastas activas →</a>
+</section>
+
+<footer class="footer">
+  SubastaViva · Datos extraídos de <a href="https://subastas.boe.es" target="_blank">subastas.boe.es</a> · Solo uso informativo
+</footer>
+
+<script>
+fetch('latest.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    var subastas = data.subastas || [];
+    var hoy = new Date().toLocaleDateString('es-ES', {day:'2-digit',month:'2-digit',year:'numeric'});
+
+    var viviendas = subastas.filter(s => s.es_vivienda).length;
+    var total = subastas.length;
+    var urgentes = subastas.filter(function(s) {
+      if (!s.fecha_fin) return false;
+      var d = s.fecha_fin.split(' ')[0];
+      return d === hoy;
+    }).length;
+
+    document.getElementById('stat-viviendas').textContent = viviendas;
+    document.getElementById('stat-total').textContent = total;
+    document.getElementById('stat-urgentes').textContent = urgentes;
+
+    var bar = document.getElementById('update-bar');
+    var fechaEl = document.getElementById('update-fecha');
+    if (data.fecha) {
+      fechaEl.textContent = data.fecha;
+      bar.style.display = '';
+    }
+  })
+  .catch(function() {});
+</script>
+</body>
+</html>
