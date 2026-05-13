@@ -2,8 +2,8 @@ name: Actualizar subastas BOE
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # 8h UTC = 10h España (verano) / 9h (invierno)
-  workflow_dispatch:       # permite lanzarlo manualmente desde GitHub
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
