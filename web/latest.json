@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-17T09:54:21.378509",
-  "fecha": "17/05/2026 09:54:21",
+  "generado": "2026-05-18T11:50:42.191934",
+  "fecha": "18/05/2026 11:50:42",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001070",
@@ -1148,6 +1148,23 @@
       "deposito": "28.193,60 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-259975",
+      "autoridad": "SERVICIO COMUN GENERAL SUBASTAS - VALENCIA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 01/06/2026 a las 18:06:09]",
+      "descripcion": "1628 DEL Registrto de la Propiedad nº 16 de Valencia, Tomo \n          2623, Libro 23, Folio 119: URBANA: Edificio en Valencia, calle Juan de Celaya, \n          número veinticinco. VIVIENDA en la primera planta alta o piso alto, derecha \n          del inmueble mirando al mismo desde el frente. Es de tipo C y tiene su acceso \n          por zaguán o patio de escalera del centro del inmueble. Le ampara la puerta \n          tres. Tiene una superficie construida de sesenta y ocho metros veintitrés \n          decímetros cuadrados y útil de sesenta y cinco metros y veintiún decímetros \n          cuadrados. Consta de tres dormitorios, paso, despensa, aseo, cocina, \n          comedor estar y solana. Linda: frente, a donde tiene su vista, calle de \n          situación y vivienda puerta dos; derecha entrando, de Diego Alfonso y patio \n          de luces; izquierda, vivienda tipo B puerta dos y hueco de escalera; y fondo, \n          Vicente Bisquert y Salvador Tamarit. Le corresponde una cuota de cinco \n          enteros setenta centésimas por ciento.-",
+      "fecha_fin": "01/06/2026 18:06:09",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-259975&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
+      "id": "SUB-JA-2026-259975",
+      "es_vivienda": true,
+      "municipio": "Valencia",
+      "provincia": "Valencia",
+      "cantidad_reclamada": "65.799,76 €",
+      "valor_subasta": "150.280,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "7.514,00 €"
+    },
+    {
       "titulo": "SUBASTA SUB-JA-2026-261427",
       "autoridad": "SERVICIO COMUN GENERAL SUBASTAS - VALENCIA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 03/06/2026 a las 18:00:00]",
@@ -2020,22 +2037,6 @@
       "deposito": "11.688,50 €"
     },
     {
-      "titulo": "SUBASTA SUB-AT-2026-25R1586001171",
-      "autoridad": "U.R. SUBASTAS GALICIA - A CORUÑA (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 01/06/2026 a las 18:00:00]",
-      "descripcion": "VIVIENDA. CL/ REYES, 17 6º 28015 - MADRID (MADRID)",
-      "fecha_fin": "01/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-25R1586001171&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-AT-2026-25R1586001171",
-      "es_vivienda": true,
-      "municipio": "Madrid",
-      "provincia": "Madrid",
-      "valor_subasta": "447.532,00 €",
-      "tasacion": "447.532,00 €",
-      "puja_minima": "44.753,20 €",
-      "deposito": "22.376,60 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R0686001010",
       "autoridad": "E.R. SUBASTAS.SEDE BADAJOZ - BADAJOZ (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 01/06/2026 a las 18:00:00]",
@@ -2589,23 +2590,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "200,00 €",
       "deposito": "9.015,15 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-259457",
-      "autoridad": "Sección Civil TI Barcelona. Plz.n 8 - BARCELONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 17/05/2026 a las 20:01:51]",
-      "descripcion": "EDICTO",
-      "fecha_fin": "17/05/2026 20:01:51",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-259457&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-259457",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "249.784,89 €",
-      "valor_subasta": "159.919,40 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "7.995,97 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-25R4186001852",
@@ -3767,6 +3751,23 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "30.777,40 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-256841",
+      "autoridad": "Sección Civil e Instruc TI Vilanova i la Geltrú. Plz.n 2 - VILANOVA I LA GELTRU",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 30/05/2026 a las 17:12:17]",
+      "descripcion": "Urbana: Entidad treita o vivienda del piso\n          segundo, lado meridional, o segundo segunda, de la casa números seis y ocho de la\n          calle de la Fita, de esta villa de Sitges, compuesta de vestíbulo, pasillo, comedor-estar\n          con terraza delantera, tres habitaciones, cocina, cuarto de baño, cuarto de aseo y\n          balcón corrido posterior con lavadero. Tiene una extensión superficial cubierta de\n          sesenta y seis metros diez decímetros cuadrados y LINDA: por su frente, Noroeste, con\n          dicha calle; fondo, Sureste, con la proyección vertical de la terraza posterior de la\n          entidad veintitrés, o bajos de la misma casa; derecha, Suroeste, con las entidades\n          veintitrés y veinticinco o segundo primera y ático, de la casa número dos de igual callemediando en parte patio de luces mancomunado de ambas casas; izquierda, Noreste,\n          con la entidad veintinueve o segundo segunda de la misma casa, mediando en parte la\n          caja de las escaleras desde las que se accede, y el patio de luces central. Por debajo,\n          con la entidad veintiocho, o primero segunda de igual casa, y por encima, con la entidad\n          treita y dos , o ático segunda de la repetida casa. Cuota general un entero, setenta y\n          cinco centésimas por ciento.",
+      "fecha_fin": "30/05/2026 17:12:17",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-256841&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-256841",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "97.691,39 €",
+      "valor_subasta": "209.164,57 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "10.458,22 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R0886001002",
