@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-23T10:00:39.751582",
-  "fecha": "23/05/2026 10:00:39",
+  "generado": "2026-05-24T10:01:56.179668",
+  "fecha": "24/05/2026 10:01:56",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-25R4586001273",
@@ -3467,7 +3467,12 @@
       "id": "SUB-JA-2026-261210",
       "es_vivienda": true,
       "municipio": "La Urbanización Mas Trader",
-      "provincia": "Barcelona"
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "340.498,05 €",
+      "valor_subasta": "615.548,04 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "30.777,40 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-261057",
