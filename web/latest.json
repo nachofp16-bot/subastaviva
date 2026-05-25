@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-24T10:01:56.179668",
-  "fecha": "24/05/2026 10:01:56",
+  "generado": "2026-05-25T11:58:14.461703",
+  "fecha": "25/05/2026 11:58:14",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-25R4586001273",
@@ -49,22 +49,6 @@
       "tasacion": "4.000.000,00 €",
       "puja_minima": "320.000,00 €",
       "deposito": "160.000,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-AT-2026-26R4686001076",
-      "autoridad": "U.R. SUBASTAS VALENCIA - VALENCIA (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 25/05/2026 a las 18:00:00]",
-      "descripcion": "LOCAL COMERCIAL. CL/ REI JOAN CARLES I, DEL, 1 00. 46135 - ALBALAT DELS SORELLS",
-      "fecha_fin": "25/05/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R4686001076&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-AT-2026-26R4686001076",
-      "es_vivienda": false,
-      "municipio": "Albalat Dels Sorells",
-      "provincia": "Valencia",
-      "valor_subasta": "43.680,95 €",
-      "tasacion": "43.680,95 €",
-      "puja_minima": "4.368,10 €",
-      "deposito": "2.184,04 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2025-254248 (2 lotes)",
@@ -1746,23 +1730,6 @@
       "deposito": "6.002,50 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-259417",
-      "autoridad": "Sección Civil TI Madrid. Plz.n 100 - MADRID",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/05/2026 a las 18:27:09]",
-      "descripcion": "FINCA Nº 2916 SUBF BIS SECCION 3ª. TRASLADADA DE LA FINCA 60416 SECCION 2ª.",
-      "fecha_fin": "27/05/2026 18:27:09",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-259417&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-JA-2026-259417",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Madrid",
-      "cantidad_reclamada": "495.336,65 €",
-      "valor_subasta": "1.257.124,52 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "62.856,22 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-260784",
       "autoridad": "Sección Civil TI Alcalá de Henares. Plz.n 3 - ALCALA DE HENARES",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/05/2026 a las 18:00:00]",
@@ -2412,22 +2379,6 @@
       "tasacion": "11.488,48 €",
       "puja_minima": "1.148,85 €",
       "deposito": "574,42 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-AT-2026-26R2886001131",
-      "autoridad": "U.R. SUBASTAS MADRID - MADRID (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/06/2026 a las 18:00:00]",
-      "descripcion": "100% del pleno dominio de vivienda en CL MARCHAMALO 15 Pl:05 Pt:A 28038 MADRID  MADRID",
-      "fecha_fin": "08/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R2886001131&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-AT-2026-26R2886001131",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Madrid",
-      "valor_subasta": "132.580,33 €",
-      "tasacion": "132.580,33 €",
-      "puja_minima": "13.258,03 €",
-      "deposito": "6.629,01 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4586001056",
