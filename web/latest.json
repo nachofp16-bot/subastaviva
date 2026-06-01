@@ -1,6 +1,6 @@
 {
-  "generado": "2026-05-31T10:21:56.370721",
-  "fecha": "31/05/2026 10:21:56",
+  "generado": "2026-06-01T13:45:08.318350",
+  "fecha": "01/06/2026 13:45:08",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-25R4186001684",
@@ -287,23 +287,6 @@
       "tasacion": "187.566,92 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "9.378,34 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-261564",
-      "autoridad": "SERVICIO COMUN GENERAL SUBASTAS - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 01/06/2026 a las 18:00:00]",
-      "descripcion": "Casa sita en la localidad de Valencia, Partida de La Punta,\n          Calle Ifach, número 68, código postal 46024.",
-      "fecha_fin": "01/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261564&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-261564",
-      "es_vivienda": false,
-      "municipio": "La Localidad De Valencia",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "123.972,65 €",
-      "valor_subasta": "186.530,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "37.306,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-261607",
@@ -4397,23 +4380,6 @@
       "deposito": "12.345,84 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-260738",
-      "autoridad": "Sección Civil e Instrucción TI Berga. Plz.n 1 - BERGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 15/06/2026 a las 18:00:00]",
-      "descripcion": "URBANA.- Casa situada al carrer de Berga, número 6 (antes 4º), del pueblo de Olván, de nombre \"Cal Baldiri\", cuya superficie no consta, si bien, según certificación del Ayuntamiento de Olván, de superficie SESENTA Y NUEVE METROS con OCHENTA Y NUEVE DECÍMETROS CUADRADOS, planta primera, destinada a\n          habitación, con una superficie construida de SESENTA Y NUEVE METROS con OCHENTA Y NUEVE DECÍMETROS CUADRADOS; y planta segunda (abuhardillada), destinada a habitación, con una superficie construida de SESENTA Y NUEVE METROS\n          con OCHENTA Y NUEVE DECÍMETROS CUADRADOS, edificada sobre un solar de SESENTA Y NUEVE METROS con OCHENTA Y NUEVE DECÍMETROS CUADRADOS.\n          Limita: al frente, con el carrer Berga; a la derecha entrando, con la casa \"Cal Maginet\", señalada con el número 2, hoy 4; a la izquierda, con la casa Consistorial; y al fondo, con el resto de la finca matriz. Se segrega de la finca 164.",
-      "fecha_fin": "15/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-260738&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-260738",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "32.105,01 €",
-      "valor_subasta": "91.966,51 €",
-      "tasacion": "91.966,51 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "4.598,32 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-261005",
       "autoridad": "Sección Civil TI Mataró. Plz.n 1 - MATARO",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 15/06/2026 a las 18:00:00]",
@@ -6703,23 +6669,6 @@
       "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
       "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-261201",
-      "autoridad": "Sección Civil e Instrucción TI Estepona. Plz.n 1 - ESTEPONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/06/2026 a las 18:00:00]",
-      "descripcion": "URBANA NUMERO OCHANTE Y TRES.- Apartamento señalado con el número 321-A1, en la planta segunda del edificio conocido con el nombre de Apartamentos del Golf, radicante en el término municipal de Manilva, integrado en la Urbanización El Hacho. Comprende una superficie de vivienda de cuarenta y siete metros trece decímetros cuadrados, más siete metros sesenta y un decímetros cuadrados de terraza y una participación de diez metros treinta y tres decímetros cuadrados en las zonas comunes del edificio, lo que da un total de sesenta y cuatro metros setenta decímetros cuadrados.",
-      "fecha_fin": "08/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261201&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-261201",
-      "es_vivienda": true,
-      "municipio": "El Término Municipal De Manilva",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "318.562,00 €",
-      "valor_subasta": "257.000,00 €",
-      "tasacion": "257.000,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "12.850,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-261404",
