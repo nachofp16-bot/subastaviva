@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-06T10:12:40.645960",
-  "fecha": "06/06/2026 10:12:40",
+  "generado": "2026-06-08T12:40:10.734320",
+  "fecha": "08/06/2026 12:40:10",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-25R4686001473",
@@ -1132,38 +1132,6 @@
       "deposito": "5.665,95 €"
     },
     {
-      "titulo": "SUBASTA SUB-AT-2026-26R2886001082",
-      "autoridad": "U.R. SUBASTAS MADRID - MADRID (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/06/2026 a las 18:00:00]",
-      "descripcion": "100% PLENO DOMINIO PLAZA DE GARAJE CL FRANCISCO RABAL 19 Es:G Pl:-2 Pt:111 28500 ARGANDA DEL REY, MA",
-      "fecha_fin": "08/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R2886001082&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-AT-2026-26R2886001082",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Madrid",
-      "valor_subasta": "9.200,00 €",
-      "tasacion": "9.200,00 €",
-      "puja_minima": "920,00 €",
-      "deposito": "460,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-AT-2026-26R2886001083",
-      "autoridad": "U.R. SUBASTAS MADRID - MADRID (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/06/2026 a las 18:00:00]",
-      "descripcion": "100% PLENO DOMINIO TRASTERO CL FRANCISCO RABAL 5 Es:10 Pl:-1 Pt:06 28500 ARGANDA DEL REY (MADRID)",
-      "fecha_fin": "08/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R2886001083&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-AT-2026-26R2886001083",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Madrid",
-      "valor_subasta": "3.395,70 €",
-      "tasacion": "3.395,70 €",
-      "puja_minima": "339,57 €",
-      "deposito": "169,78 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001120",
       "autoridad": "U.R. SUBASTAS MADRID - MADRID (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/06/2026 a las 18:00:00]",
@@ -1980,7 +1948,11 @@
       "id": "SUB-AT-2026-26R2886001048",
       "es_vivienda": true,
       "municipio": "",
-      "provincia": "Madrid"
+      "provincia": "Madrid",
+      "valor_subasta": "163.980,83 €",
+      "tasacion": "167.523,26 €",
+      "puja_minima": "16.398,08 €",
+      "deposito": "8.199,04 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001074",
@@ -2650,23 +2622,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "13.883,42 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-260870",
-      "autoridad": "Sección Civil TI Mataró. Plz.n 9 - MATARO",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/06/2026 a las 18:00:00]",
-      "descripcion": "URBANA: DEPARTAMENTO DOCE. – Vivienda en la cuarta planta alta, o sea, piso cuarto, puerta segunda, de la casa sita en Mataró, con frente a la Ronda =, Donell, números diecisiete-diecinueve.",
-      "fecha_fin": "08/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-260870&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-260870",
-      "es_vivienda": true,
-      "municipio": "Mataró",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "112.949,61 €",
-      "valor_subasta": "160.171,20 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "8.008,56 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-261018",
@@ -5907,23 +5862,6 @@
       "deposito": "167.000,07 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-260602",
-      "autoridad": "Sección Civil TI Málaga. Plz.n 18 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/06/2026 a las 18:00:00]",
-      "descripcion": "Finca registral número 28.806, inscripción 3ª, Registro de la Propiedad nº 7 de Málaga, al\n          tomo 934, libro 477, folio 70",
-      "fecha_fin": "08/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-260602&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-260602",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "57.656,27 €",
-      "valor_subasta": "139.000,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "6.950,00 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-260699",
       "autoridad": "Sección Civil TI Málaga. Plz.n 8 - MALAGA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/06/2026 a las 18:00:00]",
@@ -6447,23 +6385,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "6.300,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-260363",
-      "autoridad": "Sección Civil TI Málaga. Plz.n 9 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 19/06/2026 a las 16:01:23]",
-      "descripcion": "Finca registral número 32291 del Registro de la Propiedad Nº 9 de Málaga, inscrita al folio 169, tomo 1479, libro 539, INSCRIPCIÓN 1ª.",
-      "fecha_fin": "19/06/2026 16:01:23",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-260363&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-260363",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "55.225,22 €",
-      "valor_subasta": "32.890,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "1.644,50 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-25R2886001707",
