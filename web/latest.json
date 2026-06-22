@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-21T11:21:44.653947",
-  "fecha": "21/06/2026 11:21:44",
+  "generado": "2026-06-22T13:40:54.668382",
+  "fecha": "22/06/2026 13:40:54",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2025-248518",
@@ -154,23 +154,6 @@
       "tasacion": "49.530,36 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "2.476,51 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2024-225227",
-      "autoridad": "JUZGADO 1ª INST E INSTRUCC. 6 - ALZIRA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 24/06/2026 a las 21:19:44]",
-      "descripcion": "FINCA REGISTRAL Nº 2.161 INSCRITA EN EL REGISTRO DE LA PROPIEDAD DE XÀTIVA",
-      "fecha_fin": "24/06/2026 21:19:44",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2024-225227&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2024-225227",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "29.017,13 €",
-      "valor_subasta": "89.954,76 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "4.497,73 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-259673",
@@ -1623,7 +1606,11 @@
       "id": "SUB-AT-2026-25R0886001304",
       "es_vivienda": true,
       "municipio": "Madrid",
-      "provincia": "Madrid"
+      "provincia": "Madrid",
+      "valor_subasta": "326.829,49 €",
+      "tasacion": "326.829,49 €",
+      "puja_minima": "32.682,94 €",
+      "deposito": "16.341,47 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R0686001015",
@@ -2179,23 +2166,6 @@
       "deposito": "14.768,70 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-261526",
-      "autoridad": "Sección Civil TI Terrassa. Plz.n 7 - TERRASSA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 21/06/2026 a las 16:23:59]",
-      "descripcion": "Finca registral 34303, tomo 2005, libro 903, folio 107.",
-      "fecha_fin": "21/06/2026 16:23:59",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261526&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-261526",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "81.843,03 €",
-      "valor_subasta": "133.554,65 €",
-      "tasacion": "133.554,65 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "6.677,73 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R0886001109",
       "autoridad": "U.R. SUBASTAS CATALUÑA - BARCELONA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 22/06/2026 a las 18:00:00]",
@@ -2683,23 +2653,6 @@
       "tasacion": "245.968,92 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "12.298,44 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-261785 (2 lotes)",
-      "autoridad": "Sección Civil TI Lleida. Plz.n 2 - LLEIDA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 25/06/2026 a las 18:00:00]",
-      "descripcion": "Subasta con varios lotes. Lote 1: DESCRIPCIÓN:URBANA: ENTIDAD NÚMERO TRES. PISO PRIMERO PUERTA PRIMERA, de la casa número diecisiete de la calle Europa de Barcelona destinada a\n          vivienda Lote 2: Parcel·la situada al terme municipal de Juneda, a la zona de\n          sòl urbà denominada “PLA MOLI”; de superficie nou-cents metres, trenta-quatre decímetres quadrats",
-      "fecha_fin": "25/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261785&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-261785",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "218.679,00 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262191",
@@ -4353,6 +4306,23 @@
       "deposito": "3.057,08 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-261862",
+      "autoridad": "Sección Civil e Instrucción TI Novelda. Plz.n 3 - NOVELDA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/06/2026 a las 20:17:23]",
+      "descripcion": "½ INDIVIDA DE LA Finca registral 30.403 del Registro de la Propiedad de Aspe inscrita al folio 104, libro 448, tomo 1695, inscripción 3\n          \n          Tipo de inmueble: VIVIENDA UNIFAMILIAR Municipio: ASPE Provincia: ALICANTE Dirección: C/ Del Olmo nº50-Bajo Código postal: 03680 Dicha vivienda tiene acceso directo desde la calle y cuenta con: Planta baja: salón, cocina independiente con salida a la parte trasera del jardín y un aseo. Planta segunda: 3 dormitorios y dos cuartos de baño completos, la habitación de matrimonio cuenta con una terraza privada de unos 10m2. La superficie de la parcela privada es de unos 400m2.\n          \n          TIPO DE SUBASTA: 48.177,83 EUROS",
+      "fecha_fin": "28/06/2026 20:17:23",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261862&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
+      "id": "SUB-JA-2026-261862",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Alicante",
+      "cantidad_reclamada": "47.990,46 €",
+      "valor_subasta": "48.177,83 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "2.408,89 €"
+    },
+    {
       "titulo": "SUBASTA SUB-AT-2026-26R0886001134",
       "autoridad": "U.R. SUBASTAS CATALUÑA - BARCELONA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 29/06/2026 a las 18:00:00]",
@@ -4907,23 +4877,6 @@
       "deposito": "16.531,20 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2025-256316",
-      "autoridad": "JUZGADO 1 INSTANCIA 18 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 22/06/2026 a las 18:00:00]",
-      "descripcion": "URBANA.- FINCA NÚMERO SETENTA Y CUIATRO.-  Vivienda en Bloque 2, Portal 2, planta 5ª, señalada como número 12, tipo A1, de la Edificación Residencial denominada ¿VALLTEA 1º FASE¿, - DISTRIBUCIÓN:  Se distribuye en hall, salón comedor, cocina, cuatro dormitorios, dos baños, pasillo, terraza y terraza-lavadero. - SUPERFICIE: Tiene una superficie construida de CIENTO TREINTA Y SIETE METROS CUATRO DECIMETROS CUADRADOS. \n          \n          \n          DIRECCIÓN POSTAL: C/ GREGORIO PRIETO Nº 9, PORTAL 2, PLANTA 5º, PUERTA 12, MALAGA. EDIFICIO RESIDENCIAL PRIVADO, VALLTEA 1ª FASE, MALAGA.\n          \n          DATOS REGISTRALES: Nº FINCA: 42963  FOLIO 100:LIBRO 568 TOMO: 2596 \n          Nº REGISTRO PROPIEDAD:  NÚMERO OCHO DE MÁLAGA.\n                    \n          DATOS CATASTRALES: 9448501UF6694N0074WW.  \n                     \n          IDUFIR.29026000627134\n          \n           VIVIENDA HABITUAL: NO CONSTITUYE LA RESIDENCIA HABITUAL de la parte ejecutada.\n          \t\n          SITUACIÓN POSESORIA: NO CONSTA.\n          \t\n          VALOR DE TASACIÓN: 192.675,00 EUROS.",
-      "fecha_fin": "22/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2025-256316&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2025-256316",
-      "es_vivienda": true,
-      "municipio": "Hall",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "108.000,00 €",
-      "valor_subasta": "192.675,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "9.633,75 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-261837",
       "autoridad": "Sección Civil TI Málaga. Plz.n 4 - MALAGA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 22/06/2026 a las 18:00:00]",
@@ -5293,6 +5246,23 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "20.844,37 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JV-2026-262172 (2 lotes)",
+      "autoridad": "Sección Civil TI Marbella. Plz. n 4 - MARBELLA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 30/06/2026 a las 17:03:53]",
+      "descripcion": "Subasta con varios lotes. Lote 1: Apartamento tipo Royal Suite, en planta baja, tipo A, con acceso por el portal 5 del Conjunto Urbanístico Park Club Suites, Fase II en Río Real. Lote 2: Plaza de aparcamiento nº 4 en trastero 4 en planta sótano del Conjunto Urbanístico Park Club Suites, Fase II en Río Real.",
+      "fecha_fin": "30/06/2026 17:03:53",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JV-2026-262172&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
+      "id": "SUB-JV-2026-262172",
+      "es_vivienda": true,
+      "municipio": "Planta Baja",
+      "provincia": "Málaga",
+      "cantidad_reclamada": "198.058,71 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262391",
