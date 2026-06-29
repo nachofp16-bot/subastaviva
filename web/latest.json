@@ -1,6 +1,6 @@
 {
-  "generado": "2026-06-28T10:31:53.882855",
-  "fecha": "28/06/2026 10:31:53",
+  "generado": "2026-06-29T12:40:21.013584",
+  "fecha": "29/06/2026 12:40:21",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001088",
@@ -68,23 +68,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "26.150,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-262405",
-      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 29/06/2026 a las 18:00:00]",
-      "descripcion": "Vivienda urbana en calle de Molino de la Luz, nº 1-A de Manises",
-      "fecha_fin": "29/06/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-262405&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-262405",
-      "es_vivienda": true,
-      "municipio": "Calle De Molino De La Luz",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "103.368,29 €",
-      "valor_subasta": "150.390,00 €",
-      "tasacion": "150.390,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "7.519,50 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262571",
@@ -204,23 +187,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "14.829,38 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-RC-2026-4690000146927",
-      "autoridad": "Ayuntamiento de Torrent - Torrent",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 01/07/2026 a las 21:16:11]",
-      "descripcion": "UNA NAVE CERRADA, para usos agrícolas, sin distribución interior, que ocupa una longitud de 20 m y una altura de 4’5 m. En total una superficie de 400 m2, con destino a almacén general y con puerta de amplio acceso a la misma, a fin de permitir la entrada de vehículos de carga de demás usos agrícolas. Esta nave se halla enclavada en el linde Sur de la parcela de tierra secano con algarrobos, en término de Torrent, partida de Puncha, hoy fiscalmente Partida Mas del Jutge, nº 9 (F).",
-      "fecha_fin": "01/07/2026 21:16:11",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-RC-2026-4690000146927&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-RC-2026-4690000146927",
-      "es_vivienda": false,
-      "municipio": "Torrent",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "52.713,20 €",
-      "valor_subasta": "114.000,00 €",
-      "tasacion": "114.000,00 €",
-      "puja_minima": "57.000,00 €",
-      "deposito": "5.700,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-258861 (2 lotes)",
@@ -3382,23 +3348,6 @@
       "deposito": "29.623,15 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-261862",
-      "autoridad": "Sección Civil e Instrucción TI Novelda. Plz.n 3 - NOVELDA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/06/2026 a las 20:17:23]",
-      "descripcion": "½ INDIVIDA DE LA Finca registral 30.403 del Registro de la Propiedad de Aspe inscrita al folio 104, libro 448, tomo 1695, inscripción 3\n          \n          Tipo de inmueble: VIVIENDA UNIFAMILIAR Municipio: ASPE Provincia: ALICANTE Dirección: C/ Del Olmo nº50-Bajo Código postal: 03680 Dicha vivienda tiene acceso directo desde la calle y cuenta con: Planta baja: salón, cocina independiente con salida a la parte trasera del jardín y un aseo. Planta segunda: 3 dormitorios y dos cuartos de baño completos, la habitación de matrimonio cuenta con una terraza privada de unos 10m2. La superficie de la parcela privada es de unos 400m2.\n          \n          TIPO DE SUBASTA: 48.177,83 EUROS",
-      "fecha_fin": "28/06/2026 20:17:23",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261862&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-JA-2026-261862",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Alicante",
-      "cantidad_reclamada": "47.990,46 €",
-      "valor_subasta": "48.177,83 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "2.408,89 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R0886001134",
       "autoridad": "U.R. SUBASTAS CATALUÑA - BARCELONA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 29/06/2026 a las 18:00:00]",
@@ -3566,23 +3515,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "6.162,80 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-261851",
-      "autoridad": "Sección Civil TI Alicante. Plz.n 5 - ALICANTE/ALACANT",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/07/2026 a las 11:25:42]",
-      "descripcion": "finca sita en Alicante,  duplex en Calle Maestro Latorre 12, partida de San Blas libre de hipotecas",
-      "fecha_fin": "05/07/2026 11:25:42",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261851&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-JA-2026-261851",
-      "es_vivienda": true,
-      "municipio": "Alicante",
-      "provincia": "Alicante",
-      "cantidad_reclamada": "284.726,94 €",
-      "valor_subasta": "284.726,94 €",
-      "tasacion": "284.726,94 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "14.236,34 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4186001126",
@@ -4759,23 +4691,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "13.478,40 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-262740 (2 lotes)",
-      "autoridad": "Sección Civil TI Fuengirola. Plz. n 3 - FUENGIROLA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 06/07/2026 a las 18:00:00]",
-      "descripcion": "Subasta con varios lotes. Lote 1: URBANA Lote 2: URBANA",
-      "fecha_fin": "06/07/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-262740&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-262740",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "145.914,29 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262894",
