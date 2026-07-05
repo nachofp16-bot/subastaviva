@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-04T10:19:12.727883",
-  "fecha": "04/07/2026 10:19:12",
+  "generado": "2026-07-05T10:24:24.644123",
+  "fecha": "05/07/2026 10:24:24",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001086",
@@ -2628,12 +2628,7 @@
       "id": "SUB-JA-2026-262651",
       "es_vivienda": true,
       "municipio": "Mollet",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "239.896,88 €",
-      "valor_subasta": "123.783,00 €",
-      "tasacion": "123.783,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "6.189,15 €"
+      "provincia": "Barcelona"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262748",
@@ -2645,12 +2640,7 @@
       "id": "SUB-JA-2026-262748",
       "es_vivienda": true,
       "municipio": "Barcelona",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "40.172,82 €",
-      "valor_subasta": "200.200,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "10.010,00 €"
+      "provincia": "Barcelona"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262774",
