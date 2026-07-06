@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-05T10:24:24.644123",
-  "fecha": "05/07/2026 10:24:24",
+  "generado": "2026-07-06T12:10:53.764516",
+  "fecha": "06/07/2026 12:10:53",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001086",
@@ -2628,7 +2628,12 @@
       "id": "SUB-JA-2026-262651",
       "es_vivienda": true,
       "municipio": "Mollet",
-      "provincia": "Barcelona"
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "239.896,88 €",
+      "valor_subasta": "123.783,00 €",
+      "tasacion": "123.783,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "6.189,15 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262748",
@@ -2640,7 +2645,12 @@
       "id": "SUB-JA-2026-262748",
       "es_vivienda": true,
       "municipio": "Barcelona",
-      "provincia": "Barcelona"
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "40.172,82 €",
+      "valor_subasta": "200.200,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "10.010,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262774",
@@ -3041,12 +3051,7 @@
       "id": "SUB-JA-2026-262741",
       "es_vivienda": false,
       "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "247.911,10 €",
-      "valor_subasta": "292.050,00 €",
-      "tasacion": "292.050,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "14.602,50 €"
+      "provincia": "Barcelona"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262996",
@@ -4692,23 +4697,6 @@
       "deposito": "8.928,11 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-262261",
-      "autoridad": "Sección Civil TI Málaga. Plz.n 4 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 06/07/2026 a las 18:00:00]",
-      "descripcion": "FINCA REGISTRAL Nº 15.592/A REGISTRO DE LA PROPIEDAD Nº 6 DE Málaga, inscrita al folio 138, tomo\n          2650, libro 866, inscripción 2ª.",
-      "fecha_fin": "06/07/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-262261&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-262261",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "33.679,19 €",
-      "valor_subasta": "68.407,38 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "3.420,37 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-262327",
       "autoridad": "Sección Civil TI Fuengirola. Plz. n 5 - FUENGIROLA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 06/07/2026 a las 18:00:00]",
@@ -4928,6 +4916,23 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "32.553,42 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-258414",
+      "autoridad": "Sección Civil e Instrucción TI Estepona. Plz.n 2 - ESTEPONA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 11/07/2026 a las 16:03:09]",
+      "descripcion": "Conjunto de edificación sito en el sector SUPC3: parcela XII, en el partido de Arroyo de Las Cañas, UR Arroyo de las Cañas nº 12 de Estepona, MÁLAGA.",
+      "fecha_fin": "11/07/2026 16:03:09",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-258414&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
+      "id": "SUB-JA-2026-258414",
+      "es_vivienda": false,
+      "municipio": "El Partido De Arroyo De Las Cañas",
+      "provincia": "Málaga",
+      "cantidad_reclamada": "4.320.821,93 €",
+      "valor_subasta": "3.242.613,00 €",
+      "tasacion": "3.242.613,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "162.130,65 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-259205",
