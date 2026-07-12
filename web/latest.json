@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-11T09:44:23.197306",
-  "fecha": "11/07/2026 09:44:23",
+  "generado": "2026-07-12T09:57:30.624980",
+  "fecha": "12/07/2026 09:57:30",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001078",
@@ -4329,12 +4329,7 @@
       "id": "SUB-JA-2026-263530",
       "es_vivienda": true,
       "municipio": "Torrevieja",
-      "provincia": "Alicante",
-      "cantidad_reclamada": "74.793,61 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+      "provincia": "Alicante"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263762 (3 lotes)",
