@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-12T09:57:30.624980",
-  "fecha": "12/07/2026 09:57:30",
+  "generado": "2026-07-13T11:21:04.368009",
+  "fecha": "13/07/2026 11:21:04",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001078",
@@ -317,23 +317,6 @@
       "tasacion": "153.810,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "7.690,50 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-NH-2026-1626085",
-      "autoridad": "Notaría de Ricardo Tabernero Capella - Alzira",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 20/07/2026 a las 18:00:00]",
-      "descripcion": "Ver detalle en contenido subasta",
-      "fecha_fin": "20/07/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-NH-2026-1626085&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-NH-2026-1626085",
-      "es_vivienda": false,
-      "municipio": "Contenido Subasta",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "250.000,00 €",
-      "valor_subasta": "475.827,57 €",
-      "tasacion": "475.827,57 €",
-      "puja_minima": "237.913,79 €",
-      "deposito": "142.748,27 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-257436",
@@ -1899,22 +1882,6 @@
       "deposito": "12.647,47 €"
     },
     {
-      "titulo": "SUBASTA SUB-AT-2026-26R0886001121",
-      "autoridad": "U.R. SUBASTAS CATALUÑA - BARCELONA (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 12/07/2026 a las 15:07:54]",
-      "descripcion": "GARAJE. CL/ COMTE DURGELL, 46 1 04. 08011 - BARCELONA (BARCELONA)",
-      "fecha_fin": "12/07/2026 15:07:54",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R0886001121&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-AT-2026-26R0886001121",
-      "es_vivienda": false,
-      "municipio": "Barcelona",
-      "provincia": "Barcelona",
-      "valor_subasta": "17.017,29 €",
-      "tasacion": "17.017,29 €",
-      "puja_minima": "1.701,73 €",
-      "deposito": "850,86 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R0886001165",
       "autoridad": "U.R. SUBASTAS CATALUÑA - BARCELONA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 13/07/2026 a las 18:00:00]",
@@ -2182,23 +2149,6 @@
       "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
       "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-261580",
-      "autoridad": "Sección Civil TI Barcelona. Plz.n 23 - BARCELONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 15/07/2026 a las 18:48:11]",
-      "descripcion": "FINCA REGISTRAL Inscrita en el Registro de la Propiedad N.º 2 de Barcelona, al Tomo 2816, Libro 642, Folio 6, inscripción 13, finca 42440",
-      "fecha_fin": "15/07/2026 18:48:11",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261580&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-261580",
-      "es_vivienda": false,
-      "municipio": "El Registro De La Propiedad N",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "109.328,25 €",
-      "valor_subasta": "242.137,05 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "12.106,85 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-261277",
@@ -4329,7 +4279,12 @@
       "id": "SUB-JA-2026-263530",
       "es_vivienda": true,
       "municipio": "Torrevieja",
-      "provincia": "Alicante"
+      "provincia": "Alicante",
+      "cantidad_reclamada": "74.793,61 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263762 (3 lotes)",
@@ -4923,6 +4878,23 @@
       "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
       "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-262751",
+      "autoridad": "Sección Civil TI Fuengirola. Plz. n 3 - FUENGIROLA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 21/07/2026 a las 16:39:33]",
+      "descripcion": "URBANA",
+      "fecha_fin": "21/07/2026 16:39:33",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-262751&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
+      "id": "SUB-JA-2026-262751",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Málaga",
+      "cantidad_reclamada": "219.664,14 €",
+      "valor_subasta": "368.718,75 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "18.435,93 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262934",
