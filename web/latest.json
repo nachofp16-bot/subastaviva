@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-17T10:05:24.084055",
-  "fecha": "17/07/2026 10:05:24",
+  "generado": "2026-07-18T09:39:51.503373",
+  "fecha": "18/07/2026 09:39:51",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R0686001007",
@@ -673,6 +673,40 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "8.959,92 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-264456",
+      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 06/08/2026 a las 18:00:00]",
+      "descripcion": "URBANA.- Vivienda en planta baja de la casa señalada con el número veintidós\n          de la calle Na Marcena, de esa ciudad de Sagunt,",
+      "fecha_fin": "06/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264456&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
+      "id": "SUB-JA-2026-264456",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Valencia",
+      "cantidad_reclamada": "154.677,41 €",
+      "valor_subasta": "179.488,37 €",
+      "tasacion": "179.488,37 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "8.974,41 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-264533",
+      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 06/08/2026 a las 18:00:00]",
+      "descripcion": "50% de la Urbana vivienda sita en C/ Pizarro nº 52, Esc.1 Planta 1 Pta. 3.",
+      "fecha_fin": "06/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264533&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
+      "id": "SUB-JA-2026-264533",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Valencia",
+      "cantidad_reclamada": "29.238,92 €",
+      "valor_subasta": "84.425,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "4.221,25 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001022",
@@ -3057,6 +3091,57 @@
       "deposito": "5.555,45 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2025-253286 (2 lotes)",
+      "autoridad": "Sección Civil e Instrucción TI Martorell. Plz.n 3 - MARTORELL",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 06/08/2026 a las 18:00:00]",
+      "descripcion": "Subasta con varios lotes. Lote 1: 1-Urbana, consistente en una parcela de terreno edificable sita en la Villa de Olesa de Montserrat, con frente a la calle 2, hoy calle San José Obrero número 21 bis, que mide quince metros de ancho por veintisiete metros y medio de largo, o sea cuatrocientos doce metros y medio cuadrados, iguales a 10.917palmos; linda por su frente Oeste con dicha calle; por la derecha entrando con la calle de Barcelona; y por la izquierda y por detrás con resto de finca matriz de Pablo Canals Pujabet. Lote 2: 2.-Urbana, porción de terreno edificable sita en la Villa de Olesa de Montserrat, con frente a la calle letra A, hoy calle San José Obrero número 21, que mide catorce metros de frente por veintisiete metros y medio de fondo, ocupando una superficie de trescientos ochenta y cinco metros cuadrados. Equivalentes a 10.189 palmos; linda por su frente oeste con dicha calle, por su derecho entrando sur, con otra parcela de Manuel Fauste y Francisca Costa, y por su fondo este y por su izquierda entrando norte, con el resto de la finca matriz de Pablo Canals Pujabet.",
+      "fecha_fin": "06/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2025-253286&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2025-253286",
+      "es_vivienda": false,
+      "municipio": "Olesa De Montserrat",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "561.506,25 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-263448 (11 lotes)",
+      "autoridad": "Sección Civil e Instruc TI Arenys de Mar. Plz.n 7 - ARENYS MAR",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 06/08/2026 a las 18:00:00]",
+      "descripcion": "Subasta con varios lotes. Lote 1: LOTE 1.- FINCA 7981: Plaza de parking número UNO, en la planta subterránea del\n          edificio en Arenys de Munt, calle Vell, números 1 y 3. Se accede al mismo desde la\n          escalera que arranca del vestíbulo común de acceso del edificio. Mide 15,84 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7981 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2439, libro 189, folio 194. Lote 2: LOTE 2.- FINCA 7982: Plaza de parking número DOS, en la planta subterránea del\n          edificio en Arenys de Munt, calle Vell, números 1 y 3. Se accede al mismo desde la\n          escalera que arranca del vestíbulo común de acceso del edificio. Mide 21,56 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7982 del Registro de la Propiedad de Arenys de Mar, en el tomo 2407, libro 183, folio 187. Lote 3: LOTE 3.- FINCA 7983: Plaza de parking número TRES, en la planta subterránea del\n          edificio en Arenys de Munt, calle Vell, números 1 y 3. Se accede al mismo desde la\n          escalera que arranca del vestíbulo común de acceso del edificio. Mide 10,85 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7983 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2439, libro 189, folio 190. Lote 4: LOTE 4.- FINCA 7984: Plaza de parking número CUATRO, en la planta subterránea del\n          edificio en Arenys de Munt, calle Vell, números 1 y 3. Se accede al mismo desde la\n          escalera que arranca del vestíbulo común de acceso del edificio. Mide 10,86 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7984 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2407, libro 183, folio 193. Lote 5: LOTE 5.- FINCA 7985: Plaza de parking número CINCO, en la planta subterránea del\n          edificio en Arenys de Munt, calle Vell, números 1 y 3. Se accede al mismo desde la\n          escalera que arranca del vestíbulo común de acceso del edificio. Mide 17,52 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7985 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2407, libro 183, folio 196. Lote 6: LOTE 6.- FINCA 7986: Local comercial, sin uso específico, en la planta baja del edificio\n          sito en la villa de Arenys de Munt, calle Vell, números 1 y 3. Tiene su acceso\n          independiente desde el carrer Vell.. Tiene una superficie total construida de 31,58 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7986 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2407, libro 183, folio 200. Lote 7: LOTE 7.- FINCA 7987: Vivienda en la planta baja del edificio sito en la villa de Arenys de\n          Munt, calle Vell, números 1 y 3. Se identifica como bajos primera. Tiene una superficie\n          total construida de 65,70 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7987 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2407, libro 183, folio 201. Lote 8: LOTE 8.- FINCA 7988: Vivienda en la planta primera del edificio sito en la villa de\n          Arenys de Munt, calle Vell, números 1 y 3. Se identifica como primero primera. Tiene\n          una superficie total construida de 65,70 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7988 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2407, libro 183, folio 204. Lote 9: LOTE 9.- FINCA 7989: Vivienda en la planta alta primera del edificio sito en la villa de\n          Arenys de Munt, calle Vell, números 1 y 3. Se identifica como primero segunda. Tiene\n          una superficie total construida de 75,78 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7989 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2407, libro 183, folio 205. Lote 10: LOTE 10.- FINCA 7990: Vivienda en la planta alta segunda del edificio sito en la villa de\n          Arenys de Munt, calle Vell, números 1 y 3. Se identifica como segundo primera. Tiene\n          una superficie total construida de 65,70 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7990 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2407, libro 183, folio 207. Lote 11: LOTE 11.- FINCA 7991: Vivienda en la planta alta segunda del edificio sito en la villa de\n          Arenys de Munt, calle Vell, números 1 y 3. Se identifica como segundo segunda. Tiene\n          una superficie total construida de 47,25 m2.\n          DATOS REGISTRALES: Inscripción: Finca registral 7991 del Registro de la Propiedad\n          de Arenys de Mar, en el tomo 2407, libro 183, folio 211.",
+      "fecha_fin": "06/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263448&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-263448",
+      "es_vivienda": true,
+      "municipio": "Arenys De Munt",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "1.210.004,66 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-263993",
+      "autoridad": "Sección Civil e Instrucción TI Igualada. Plz.n 3 - IGUALADA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 06/08/2026 a las 18:00:00]",
+      "descripcion": "DESCRIPCIÓN DE LA FINCA HIPOTECADA: URBANA.- CASA sita en Vilanova del Camí, calle Rosario número 1, que se compone de una sola planta, en la que existe una vivienda de cincuenta y siete metros cuadrados y un garaje de diecisiete metros cincuenta decímetros cuadrados, con un total de superficie edificada  de setenta y tres metros cincuenta decímetros cuadrados, poco más o menos.",
+      "fecha_fin": "06/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263993&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-263993",
+      "es_vivienda": true,
+      "municipio": "Vilanova Del Camí",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "164.884,47 €",
+      "valor_subasta": "220.400,00 €",
+      "tasacion": "220.400,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "11.020,00 €"
+    },
+    {
       "titulo": "SUBASTA SUB-AT-2026-26R3086001049",
       "autoridad": "U.R. SUBASTAS MURCIA - MURCIA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 20/07/2026 a las 18:00:00]",
@@ -4931,6 +5016,23 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "9.659,92 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-260745",
+      "autoridad": "Sec. Civil e Inst. TI Sanlúcar la Mayor. Plz.n 2 - SANLUCAR MAYOR",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 06/08/2026 a las 18:00:00]",
+      "descripcion": "URBANA.- Parcela número ochenta y nueve del plan Especial de Reforma Interior de los encinares de Sanlúcar La Mayor, de forma sensiblemente trapezoidal, con una superficie de dos mil quinientos catorce metros cuadrados. Da en un largo de 59,61 metros a c/ Cigüeña, al que corresponde el número 31 de gobierno.\n           URBANA .- Parcela número ocho del plan Especial de Reforma Interior de los Encinares de Sanlúcar La Mayor, de forma sensiblemente rectangular, con una superficie de dos mil quinientos sesenta y cinco metros cuadrados. Da en un largo de 39,05 metros a c/ Cigüeña, al que corresponde el número 23 de gobierno.\n           URBANA Parcela número cinco del plan Especial de Reforma Interior de los Encinares de Sanlúcar La Mayor, de forma sensiblemente rectangular, con una superficie de dos mil quinientos metros cuadrados. Da en un largo de 38,54 metros a c/ Cigüeña, al que corresponde el número 29 de gobierno.",
+      "fecha_fin": "06/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-260745&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptREVjUzEzZDNSK0QybUdscnhuNVZCYlBMTzQwYVVWRUZyK2U0S3hmYlVmcmJVc1pBZldlcGpTSUVTMWdOb25SMm9kb2ZVeFpKN09taUtMdExTb3VpSksxNzlIdjQ2VnFPeG1pb0tKZVJheTdGZUx4Q0tJSXBqVTNuUVN2VGlzbzAvNzE4SDhXQkhkeHVoMTBzdktjR2sveHo2bzcvY2lLSVZwb2V1cG5LQTIzVTZ4WnJhZ3dneTVsT0xlMlBaN05IQjBOVjZrMENZSEo4VzlzZjFMMkVuL2hjMzhrU1o5UmYvQnJUSERaUzVTbTlmRE5nTWc3QTVCeXoyNG9IeTdUTFgwbEoxSWQ3bGNkNzhsS0tSeTlLZnhKK3ZHT0FPNmxuRXpjTVEwRnFpOHd3S0ZQUGJTNGtYQm84dnhJaTVCOE56a2ZFQlVaUEVwRERwell6ZHlWYURNPQ,,--500",
+      "id": "SUB-JA-2026-260745",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Sevilla",
+      "cantidad_reclamada": "97.224,03 €",
+      "valor_subasta": "585.386,13 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "29.269,30 €"
     }
   ]
 }
