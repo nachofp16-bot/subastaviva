@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-18T09:39:51.503373",
-  "fecha": "18/07/2026 09:39:51",
+  "generado": "2026-07-19T09:57:50.425542",
+  "fecha": "19/07/2026 09:57:50",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R0686001007",
@@ -1692,12 +1692,7 @@
       "id": "SUB-JA-2026-262806",
       "es_vivienda": true,
       "municipio": "",
-      "provincia": "Madrid",
-      "cantidad_reclamada": "244.320,45 €",
-      "valor_subasta": "448.065,41 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "22.403,27 €"
+      "provincia": "Madrid"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263305 (2 lotes)",
