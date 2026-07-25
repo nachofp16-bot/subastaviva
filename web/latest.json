@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-24T10:25:29.956540",
-  "fecha": "24/07/2026 10:25:29",
+  "generado": "2026-07-25T09:55:26.877059",
+  "fecha": "25/07/2026 09:55:26",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001274",
@@ -590,6 +590,40 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "7.355,05 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-259348",
+      "autoridad": "SERVICIO COMUN GENERAL SUBASTAS - VALENCIA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 13/08/2026 a las 18:00:00]",
+      "descripcion": "URBANA.- Vivienda CALLE CUMBRE MAYORES, planta\n          1, puerta 5, edificio en Paseo de España, 6. Vivienda tipo A.",
+      "fecha_fin": "13/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-259348&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
+      "id": "SUB-JA-2026-259348",
+      "es_vivienda": true,
+      "municipio": "Paseo De España",
+      "provincia": "Valencia",
+      "cantidad_reclamada": "147.798,90 €",
+      "valor_subasta": "111.279,01 €",
+      "tasacion": "111.279,01 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "5.563,95 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-264019",
+      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 13/08/2026 a las 18:00:00]",
+      "descripcion": "Vivienda tipo C, situada en la tercera planta alta, con\n          acceso por la escalera común a esta vivienda y otras siete. Está situada al lado  derecho de la escalera, mirando de frente a la carretera de su situación, del edificio sito en Massalavés, Camino Real de Madrid, número 10-3ºC.",
+      "fecha_fin": "13/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264019&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
+      "id": "SUB-JA-2026-264019",
+      "es_vivienda": true,
+      "municipio": "La Tercera",
+      "provincia": "Valencia",
+      "cantidad_reclamada": "55.758,94 €",
+      "valor_subasta": "21.882,99 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "1.094,15 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001246",
@@ -1487,23 +1521,6 @@
       "deposito": "823,09 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-263321",
-      "autoridad": "Sección Civil TI Barcelona. Plz.n 60 - BARCELONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/07/2026 a las 18:00:00]",
-      "descripcion": "Finca Registral núm. 9.096 de la Sección 1ª del Registro de la\n          Propiedad de Barcelona núm. 20, folio 25, tomo 308, Libro 166. Código Registral Único:\n          08071000161253.",
-      "fecha_fin": "27/07/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263321&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-263321",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "70.722,15 €",
-      "valor_subasta": "121.200,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "6.060,00 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-263572",
       "autoridad": "Sección Civil e Instrucción TI Berga. Plz.n 2 - BERGA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/07/2026 a las 18:00:00]",
@@ -2337,6 +2354,23 @@
       "deposito": "15.607,30 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-264701 (2 lotes)",
+      "autoridad": "Sec. Civil e Inst. TI Sant Boi Llobregat. Plz.n 3 - SANT BOI DE LLOBREGAT",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 13/08/2026 a las 18:00:00]",
+      "descripcion": "Subasta con varios lotes. Lote 1: Vivienda en Sant Boi de Llobregat Lote 2: Vivienda en Sant Boi de Llobregat",
+      "fecha_fin": "13/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264701&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-264701",
+      "es_vivienda": true,
+      "municipio": "Sant Boi De Llobregat",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "48.828,30 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+    },
+    {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001115",
       "autoridad": "U.R. SUBASTAS VALENCIA - VALENCIA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/07/2026 a las 18:00:00]",
@@ -2383,22 +2417,6 @@
       "tasacion": "122.713,89 €",
       "puja_minima": "12.271,39 €",
       "deposito": "6.135,69 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-AT-2026-26R4686001207",
-      "autoridad": "U.R. SUBASTAS VALENCIA - VALENCIA (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/07/2026 a las 18:00:00]",
-      "descripcion": "NAVE INDUSTRIAL.CL BOLULLA 11-PG/ INDUSTRIAL FAIMA, 03330 CREVILLENT(ALICANTE)",
-      "fecha_fin": "27/07/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R4686001207&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-AT-2026-26R4686001207",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Alicante",
-      "valor_subasta": "175.450,50 €",
-      "tasacion": "175.450,50 €",
-      "puja_minima": "17.545,05 €",
-      "deposito": "8.772,52 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001219",
@@ -3080,6 +3098,23 @@
       "deposito": "13.462,10 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-260805",
+      "autoridad": "Sección Civil TI Orihuela. Plz.n 4 - ORIHUELA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 13/08/2026 a las 18:00:00]",
+      "descripcion": "FINCA REGISTRAL Nº 11.624 del Registro de la Propiedad\n          de Callosa de Segura, inscrita al folio 195 del tomo 1.683, libro\n          160 de Cox.",
+      "fecha_fin": "13/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-260805&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
+      "id": "SUB-JA-2026-260805",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Alicante",
+      "cantidad_reclamada": "4.036,96 €",
+      "valor_subasta": "13.550,41 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "677,52 €"
+    },
+    {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001263",
       "autoridad": "U.R. SUBASTAS MADRID - MADRID (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/07/2026 a las 18:00:00]",
@@ -3400,6 +3435,40 @@
       "tasacion": "70.434,69 €",
       "puja_minima": "35.217,35 €",
       "deposito": "3.521,73 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-260924",
+      "autoridad": "Sección Civil e Instrucción TI Antequera. Plz.n 1 - ANTEQUERA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 13/08/2026 a las 18:00:00]",
+      "descripcion": "inca registral numero 1.696 Descripción:  URBANA.- CASA situada en la villa de Mollina y en su calle Real,",
+      "fecha_fin": "13/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-260924&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
+      "id": "SUB-JA-2026-260924",
+      "es_vivienda": false,
+      "municipio": "Mollina Y",
+      "provincia": "Málaga",
+      "cantidad_reclamada": "51.525,00 €",
+      "valor_subasta": "63.103,21 €",
+      "tasacion": "63.103,21 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "3.155,16 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JV-2026-263564",
+      "autoridad": "Sección Civil TI Málaga. Plz.n 7 - MALAGA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 13/08/2026 a las 18:00:00]",
+      "descripcion": "FINCA REGISTRAL Nº 29682/B, REGISTRO DE LA PROPIEDAD Nº 10 DE MÁLAGA, inscrita al folio 175, tomo 1929,\n          libro 179",
+      "fecha_fin": "13/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JV-2026-263564&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
+      "id": "SUB-JV-2026-263564",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Málaga",
+      "cantidad_reclamada": "0,00 €",
+      "valor_subasta": "300.000,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "60.000,00 €",
+      "deposito": "30.000,00 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-25R4186001911",
@@ -3768,6 +3837,23 @@
       "tasacion": "211.457,85 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "11.630,18 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-264062",
+      "autoridad": "Sec. Civil e Inst. TI Dos Hermanas. Plz.n 4 - DOS HERMANAS",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 13/08/2026 a las 18:00:00]",
+      "descripcion": "egistro de la Propìedad nº 3 de Dos Hermanas finca registral 9670. URBANA VIVIENDA sita en Dos Hermanas, C/ castillo de la Serrezuela 12. Superficie total construida 605 m2",
+      "fecha_fin": "13/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264062&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptREVjUzEzZDNSK0QybUdscnhuNVZCYlBMTzQwYVVWRUZyK2U0S3hmYlVmcmJVc1pBZldlcGpTSUVTMWdOb25SMm9kb2ZVeFpKN09taUtMdExTb3VpSksxNzlIdjQ2VnFPeG1pb0tKZVJheTdGZUx4Q0tJSXBqVTNuUVN2VGlzbzAvNzE4SDhXQkhkeHVoMTBzdktjR2sveHo2bzcvY2lLSVZwb2V1cG5LQTIzVTZ4WnJhZ3dneTVsT0xlMlBaN05IQjBOVjZrMENZSEo4VzlzZjFMMkVuL2hjMzhrU1o5UmYvQnJUSERaUzVTbTlmRE5nTWc3QTVCeXoyNG9IeTdUTFgwbEoxSWQ3bGNkNzhsS0tSeTlLZnhKK3ZHT0FPNmxuRXpjTVEwRnFpOHd3S0ZQUGJTNGtYQm84dnhJaTVCOE56a2ZFQlVaUEVwRERwell6ZHlWYURNPQ,,--500",
+      "id": "SUB-JA-2026-264062",
+      "es_vivienda": true,
+      "municipio": "Dos Hermanas",
+      "provincia": "Sevilla",
+      "cantidad_reclamada": "237.990,00 €",
+      "valor_subasta": "739.210,43 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "36.960,52 €"
     }
   ]
 }
