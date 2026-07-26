@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-25T09:55:26.877059",
-  "fecha": "25/07/2026 09:55:26",
+  "generado": "2026-07-26T10:07:03.998328",
+  "fecha": "26/07/2026 10:07:03",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001274",
@@ -1419,23 +1419,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "3.400,25 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-261580",
-      "autoridad": "Sección Civil TI Barcelona. Plz.n 23 - BARCELONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 25/07/2026 a las 16:04:58]",
-      "descripcion": "FINCA REGISTRAL Inscrita en el Registro de la Propiedad N.º 2 de Barcelona, al Tomo 2816, Libro 642, Folio 6, inscripción 13, finca 42440",
-      "fecha_fin": "25/07/2026 16:04:58",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261580&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-261580",
-      "es_vivienda": false,
-      "municipio": "El Registro De La Propiedad N",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "109.328,25 €",
-      "valor_subasta": "242.137,05 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "12.106,85 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R0886001220",
