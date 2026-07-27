@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-26T10:07:03.998328",
-  "fecha": "26/07/2026 10:07:03",
+  "generado": "2026-07-27T11:32:16.267916",
+  "fecha": "27/07/2026 11:32:16",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001274",
@@ -165,23 +165,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "6.271,20 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-263628",
-      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/07/2026 a las 18:00:00]",
-      "descripcion": "Vivienda B, hoy puerta\n          tres de la planta primera de la casa número diez de la calle Príncipes de Mónaco, de la Barriada\n          de Nuestra Señora de Fuensanta de Valencia. Está situada en el bloque uno y se compone de\n          vestíbulo, comedor-estar, tres dormitorios, cocina, aseo, armario, lavadero y terraza.\n          Mide cincuenta y ocho metros, sesenta y un decímetros cuadrados.",
-      "fecha_fin": "27/07/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263628&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-263628",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "50.616,41 €",
-      "valor_subasta": "70.472,60 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "3.523,63 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263980",
@@ -1931,9 +1914,9 @@
     {
       "titulo": "SUBASTA SUB-JA-2026-264177",
       "autoridad": "Sec. Civil e Inst. TI Mollet del Vallès. Plz.n 1 - MOLLET DEL VALLES",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 30/07/2026 a las 18:00:00]",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 30/07/2026 a las 18:00:59]",
       "descripcion": "Según consta en Edicto anexo",
-      "fecha_fin": "30/07/2026 18:00:00",
+      "fecha_fin": "30/07/2026 18:00:59",
       "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264177&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
       "id": "SUB-JA-2026-264177",
       "es_vivienda": false,
@@ -2352,22 +2335,6 @@
       "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
       "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
-      "titulo": "SUBASTA SUB-AT-2026-26R4686001115",
-      "autoridad": "U.R. SUBASTAS VALENCIA - VALENCIA (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/07/2026 a las 18:00:00]",
-      "descripcion": "VIVIENDA. CL/ SANT JAUME, 48. 03760 - ONDARA (ALICANTE)",
-      "fecha_fin": "27/07/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R4686001115&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-AT-2026-26R4686001115",
-      "es_vivienda": true,
-      "municipio": "Ondara",
-      "provincia": "Alicante",
-      "valor_subasta": "25.334,15 €",
-      "tasacion": "25.334,15 €",
-      "puja_minima": "2.533,42 €",
-      "deposito": "1.266,70 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001127",
@@ -3197,23 +3164,6 @@
       "tasacion": "14.695,62 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "734,78 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JV-2026-262172 (2 lotes)",
-      "autoridad": "Sección Civil TI Marbella. Plz. n 4 - MARBELLA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 29/07/2026 a las 18:24:32]",
-      "descripcion": "Subasta con varios lotes. Lote 1: Apartamento tipo Royal Suite, en planta baja, tipo A, con acceso por el portal 5 del Conjunto Urbanístico Park Club Suites, Fase II en Río Real. Lote 2: Plaza de aparcamiento nº 4 en trastero 4 en planta sótano del Conjunto Urbanístico Park Club Suites, Fase II en Río Real.",
-      "fecha_fin": "29/07/2026 18:24:32",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JV-2026-262172&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JV-2026-262172",
-      "es_vivienda": true,
-      "municipio": "Planta Baja",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "198.058,71 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262132",
