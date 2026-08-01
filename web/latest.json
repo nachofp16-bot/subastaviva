@@ -1,6 +1,6 @@
 {
-  "generado": "2026-07-31T10:46:35.648291",
-  "fecha": "31/07/2026 10:46:35",
+  "generado": "2026-08-01T10:05:08.542236",
+  "fecha": "01/08/2026 10:05:08",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-257018",
@@ -114,7 +114,12 @@
       "id": "SUB-JA-2026-264355",
       "es_vivienda": true,
       "municipio": "Planta Baja",
-      "provincia": "Valencia"
+      "provincia": "Valencia",
+      "cantidad_reclamada": "69.615,89 €",
+      "valor_subasta": "76.876,97 €",
+      "tasacion": "76.876,97 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "3.843,84 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-258016",
@@ -126,7 +131,12 @@
       "id": "SUB-JA-2026-258016",
       "es_vivienda": true,
       "municipio": "Planta Baja",
-      "provincia": "Valencia"
+      "provincia": "Valencia",
+      "cantidad_reclamada": "57.989,25 €",
+      "valor_subasta": "179.198,51 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "8.959,92 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-264456",
@@ -1302,6 +1312,23 @@
       "deposito": "11.235,20 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-265145",
+      "autoridad": "Sec. Civil e Inst. TI Mollet del Vallès. Plz.n 1 - MOLLET DEL VALLES",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 20/08/2026 a las 18:00:00]",
+      "descripcion": "Segun consta en el edicto anexo.",
+      "fecha_fin": "20/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265145&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-265145",
+      "es_vivienda": false,
+      "municipio": "El Edicto Anexo",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "295.988,55 €",
+      "valor_subasta": "555.828,00 €",
+      "tasacion": "555.828,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "27.791,40 €"
+    },
+    {
       "titulo": "SUBASTA SUB-JC-2026-261522 (4 lotes)",
       "autoridad": "Sección Civil e Instruc TI Zamora. Plz.n 2 - ZAMORA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 01/08/2026 a las 20:49:37]",
@@ -2237,23 +2264,6 @@
       "deposito": "7.480,20 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-263723",
-      "autoridad": "Sección Civil TI Sevilla. Plz.n 10 - SEVILLA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 31/07/2026 a las 18:13:42]",
-      "descripcion": "URBANA. NÚMERO VEINTIOCHO. VIVIENDA que ocupa la parte anterior izquierda en planta séptima de la casa número Ochenta y ocho, en el Barrio D, del Polígono de San Pablo de esta Ciudad, hoy avenida Pedro Romero, número dos",
-      "fecha_fin": "31/07/2026 18:13:42",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263723&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptREVjUzEzZDNSK0QybUdscnhuNVZCYlBMTzQwYVVWRUZyK2U0S3hmYlVmcmJVc1pBZldlcGpTSUVTMWdOb25SMm9kb2ZVeFpKN09taUtMdExTb3VpSksxNzlIdjQ2VnFPeG1pb0tKZVJheTdGZUx4Q0tJSXBqVTNuUVN2VGlzbzAvNzE4SDhXQkhkeHVoMTBzdktjR2sveHo2bzcvY2lLSVZwb2V1cG5LQTIzVTZ4WnJhZ3dneTVsT0xlMlBaN05IQjBOVjZrMENZSEo4VzlzZjFMMkVuL2hjMzhrU1o5UmYvQnJUSERaUzVTbTlmRE5nTWc3QTVCeXoyNG9IeTdUTFgwbEoxSWQ3bGNkNzhsS0tSeTlLZnhKK3ZHT0FPNmxuRXpjTVEwRnFpOHd3S0ZQUGJTNGtYQm84dnhJaTVCOE56a2ZFQlVaUEVwRERwell6ZHlWYURNPQ,,--500",
-      "id": "SUB-JA-2026-263723",
-      "es_vivienda": true,
-      "municipio": "El Barrio D",
-      "provincia": "Sevilla",
-      "cantidad_reclamada": "39.063,13 €",
-      "valor_subasta": "77.746,93 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "3.887,34 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-263288",
       "autoridad": "Sección Civil TI Sevilla. Plz.n 20 - SEVILLA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 03/08/2026 a las 18:00:00]",
@@ -2456,6 +2466,57 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "8.494,25 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2025-250623",
+      "autoridad": "JUZGADO 1 INSTANCIA 14 - SEVILLA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 20/08/2026 a las 18:00:00]",
+      "descripcion": "URBANA NÚMERO TREINTA Y DOS. Piso izquiera subiendo en planta tercera, de la casa número siete de la calle Chopo, Manzana número Uno, en la Barrriada de Torreblanca, en la ciudad de Sevilla.\n          \n          FINCA Nº 9465. TOMO 2764, LIBRO 199, FOLIO 43 INSCRITA EN EL REGISTRO DE LA PROPIEDAD Nº 9 DE SEVILLA",
+      "fecha_fin": "20/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2025-250623&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptREVjUzEzZDNSK0QybUdscnhuNVZCYlBMTzQwYVVWRUZyK2U0S3hmYlVmcmJVc1pBZldlcGpTSUVTMWdOb25SMm9kb2ZVeFpKN09taUtMdExTb3VpSksxNzlIdjQ2VnFPeG1pb0tKZVJheTdGZUx4Q0tJSXBqVTNuUVN2VGlzbzAvNzE4SDhXQkhkeHVoMTBzdktjR2sveHo2bzcvY2lLSVZwb2V1cG5LQTIzVTZ4WnJhZ3dneTVsT0xlMlBaN05IQjBOVjZrMENZSEo4VzlzZjFMMkVuL2hjMzhrU1o5UmYvQnJUSERaUzVTbTlmRE5nTWc3QTVCeXoyNG9IeTdUTFgwbEoxSWQ3bGNkNzhsS0tSeTlLZnhKK3ZHT0FPNmxuRXpjTVEwRnFpOHd3S0ZQUGJTNGtYQm84dnhJaTVCOE56a2ZFQlVaUEVwRERwell6ZHlWYURNPQ,,--500",
+      "id": "SUB-JA-2025-250623",
+      "es_vivienda": true,
+      "municipio": "Planta Tercera",
+      "provincia": "Sevilla",
+      "cantidad_reclamada": "27.902,14 €",
+      "valor_subasta": "70.516,07 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "3.525,80 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-263640 (2 lotes)",
+      "autoridad": "Sec. Civil e Inst. TI Dos Hermanas. Plz.n 1 - DOS HERMANAS",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 20/08/2026 a las 18:00:00]",
+      "descripcion": "Subasta con varios lotes. Lote 1: REGISTRO DE LA PROPIEDAD NÚMERO TRES DE DOS HERMANAS,\n          PROVINCIA DE SEVILLA, registral 2.307,\n          URBANA. 6. PISO C en planta primera de la casa tres del Bloque A, al sitio\n          Hacienda Torre de Doña María, en Dos Hermanas, en la actualidad se identifica como piso\n          en calle Tesorillo, número 8, 1C. Ocupa una superficie construida de unos setenta y nueve\n          con treinta y cuatro metros cuadrados Lote 2: REGISTRO DE LA PROPIEDAD NÚMERO TRES DE DOS HERMANAS,\n          PROVINCIA DE SEVILLA, registral 2.307,\n          URBANA. 6. PISO C en planta primera de la casa tres del Bloque A, al sitio\n          Hacienda Torre de Doña María, en Dos Hermanas, en la actualidad se identifica como piso\n          en calle Tesorillo, número 8, 1C. Ocupa una superficie construida de unos setenta y nueve\n          con treinta y cuatro metros cuadrados.\n          CALLE TESORILLO 8, Planta 1, Letra C, Dos Hermanas, Sevilla, 41704.",
+      "fecha_fin": "20/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263640&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptREVjUzEzZDNSK0QybUdscnhuNVZCYlBMTzQwYVVWRUZyK2U0S3hmYlVmcmJVc1pBZldlcGpTSUVTMWdOb25SMm9kb2ZVeFpKN09taUtMdExTb3VpSksxNzlIdjQ2VnFPeG1pb0tKZVJheTdGZUx4Q0tJSXBqVTNuUVN2VGlzbzAvNzE4SDhXQkhkeHVoMTBzdktjR2sveHo2bzcvY2lLSVZwb2V1cG5LQTIzVTZ4WnJhZ3dneTVsT0xlMlBaN05IQjBOVjZrMENZSEo4VzlzZjFMMkVuL2hjMzhrU1o5UmYvQnJUSERaUzVTbTlmRE5nTWc3QTVCeXoyNG9IeTdUTFgwbEoxSWQ3bGNkNzhsS0tSeTlLZnhKK3ZHT0FPNmxuRXpjTVEwRnFpOHd3S0ZQUGJTNGtYQm84dnhJaTVCOE56a2ZFQlVaUEVwRERwell6ZHlWYURNPQ,,--500",
+      "id": "SUB-JA-2026-263640",
+      "es_vivienda": true,
+      "municipio": "Dos Hermanas",
+      "provincia": "Sevilla",
+      "cantidad_reclamada": "113.931,23 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-264398",
+      "autoridad": "Sección Civil TI Sevilla. Plz.n 15 - SEVILLA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 20/08/2026 a las 18:00:00]",
+      "descripcion": "DESCRIPCIÓN FINCA: \"URBANA:\n          URBANA: VIVIENDA UNIFAMILIAR DIECINUEVE ya terminada. Ubicada en la parcela diecinueve de la manzana RU-1, sita en C/ Dolores Ibarruri Nº 19 de Alcalá del Rio. La superficie de la parcela es aproximandamente de 105 metros, 5 decimetros cuadrados. Lavivienda tiene una superficio construida aproximada de 140 metros, 6 decimetros cuadrados. \n          Consta de dos plantas sobre rasante mas castillete de acceso a planta de cubierta, convenientemente distribuidas para vivienda. Esta vivienda dispone de un solarum en planta de cubierta de aproximadamente catroce metros y cuarenta y siete decímetros cuadrados, y un jardín en el resto de  la parcela no ocupada por la construcción, donde se ubica una plaza de aparcamiento en superficie. La descrita vivienda, linda al frente, entrando a través de jardín con calle Dolores Ibarruri, por la derecha, a través del jardín, con parcela veintiuno de la misma manzana; izquierda, con vivienda diecisiete, construida sobre parcela diecisiete de la misma manzana; y por el fondo, con vivienda veinte construida sobre parcela veinte de la misma manzana",
+      "fecha_fin": "20/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264398&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptREVjUzEzZDNSK0QybUdscnhuNVZCYlBMTzQwYVVWRUZyK2U0S3hmYlVmcmJVc1pBZldlcGpTSUVTMWdOb25SMm9kb2ZVeFpKN09taUtMdExTb3VpSksxNzlIdjQ2VnFPeG1pb0tKZVJheTdGZUx4Q0tJSXBqVTNuUVN2VGlzbzAvNzE4SDhXQkhkeHVoMTBzdktjR2sveHo2bzcvY2lLSVZwb2V1cG5LQTIzVTZ4WnJhZ3dneTVsT0xlMlBaN05IQjBOVjZrMENZSEo4VzlzZjFMMkVuL2hjMzhrU1o5UmYvQnJUSERaUzVTbTlmRE5nTWc3QTVCeXoyNG9IeTdUTFgwbEoxSWQ3bGNkNzhsS0tSeTlLZnhKK3ZHT0FPNmxuRXpjTVEwRnFpOHd3S0ZQUGJTNGtYQm84dnhJaTVCOE56a2ZFQlVaUEVwRERwell6ZHlWYURNPQ,,--500",
+      "id": "SUB-JA-2026-264398",
+      "es_vivienda": true,
+      "municipio": "Superficie",
+      "provincia": "Sevilla",
+      "cantidad_reclamada": "112.550,90 €",
+      "valor_subasta": "200.564,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "10.028,20 €"
     }
   ]
 }
