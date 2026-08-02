@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-01T10:05:08.542236",
-  "fecha": "01/08/2026 10:05:08",
+  "generado": "2026-08-02T10:03:21.771133",
+  "fecha": "02/08/2026 10:03:21",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-257018",
@@ -1327,23 +1327,6 @@
       "tasacion": "555.828,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "27.791,40 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JC-2026-261522 (4 lotes)",
-      "autoridad": "Sección Civil e Instruc TI Zamora. Plz.n 2 - ZAMORA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 01/08/2026 a las 20:49:37]",
-      "descripcion": "Subasta con varios lotes. Lote 1: FINCA URBANA, sita al cercado de San Antón, en la\n          actualidad c/ Castilla y León nº 1 de Benavente (Zamora) Lote 2: MITAD INDIVISA DE LA FINCA URBANA destinada a local\n          comercial sito en la c/ Ronda Rancha número cinco de Benavente Lote 3: BUNGALOW, número cien, integrado en el bloque 11 del\n          conjunto residencial ¿pueblo el tosal¿, en término de La Nucia\n          Alicante Lote 4: LAZA DE APARCAMIENTO, señalada con el número treinta y\n          nueve, ubicada en el sótano del edificio a la que se accede\n          por el pasillo y calle de acceso que la comunican a través de\n          rampa, con el acceso al garaje sito en la planta baja",
-      "fecha_fin": "01/08/2026 20:49:37",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JC-2026-261522&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-JC-2026-261522",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Alicante",
-      "cantidad_reclamada": "840.567,71 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-JA-2024-236065",
