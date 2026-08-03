@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-02T10:03:21.771133",
-  "fecha": "02/08/2026 10:03:21",
+  "generado": "2026-08-03T11:34:41.519898",
+  "fecha": "03/08/2026 11:34:41",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-257018",
@@ -1446,6 +1446,23 @@
       "tasacion": "75.769,61 €",
       "puja_minima": "53.038,73 €",
       "deposito": "3.788,48 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-263118",
+      "autoridad": "Sección Civil TI Torrevieja. Plz.n 4 - TORREVIEJA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 04/08/2026 a las 11:12:16]",
+      "descripcion": "FINCA REGISTRAL Nº 889, INSCRITA EN EL TOMO 1442, LIBRO 11,\n          FOLIO 160, DEL REGISTRO DE LA PROPIEDAD Nº 1 DE TORREVIEJA",
+      "fecha_fin": "04/08/2026 11:12:16",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263118&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
+      "id": "SUB-JA-2026-263118",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Alicante",
+      "cantidad_reclamada": "98.458,93 €",
+      "valor_subasta": "156.453,72 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "7.822,68 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2025-243497 (4 lotes)",
