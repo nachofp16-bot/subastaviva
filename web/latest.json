@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-07T09:06:43.502666",
-  "fecha": "07/08/2026 09:06:43",
+  "generado": "2026-08-08T08:50:45.510974",
+  "fecha": "08/08/2026 08:50:45",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-257588",
@@ -239,6 +239,23 @@
       "tasacion": "123.100,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "6.155,00 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-265275",
+      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/08/2026 a las 18:00:00]",
+      "descripcion": "VIVIENDA TIPO A SITA EN CALLE XIQUET DE BETERA 1  SEGUNDA PLANTA PUERTA 4   DE BETERA. VIVIENDA DE PROTECCIÓN OFICIAL DE PROMOCIÓN PRIVADA, EXPEDIENTE:\n          V-VS-46-I-116/87 de 19/12/1988",
+      "fecha_fin": "27/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265275&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
+      "id": "SUB-JA-2026-265275",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Valencia",
+      "cantidad_reclamada": "116.867,99 €",
+      "valor_subasta": "156.384,36 €",
+      "tasacion": "156.384,36 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "7.819,22 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-262804",
@@ -665,6 +682,23 @@
       "deposito": "27.791,40 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-264405",
+      "autoridad": "Sección Civil TI Barcelona. Plz.n 32 - BARCELONA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 21/08/2026 a las 20:43:25]",
+      "descripcion": "Inscrita en el Registro de la Propiedad nº 24 de Barcelona,\n          finca 4956, tomo 3070, libro 166, folio 58, sección 2ª.",
+      "fecha_fin": "21/08/2026 20:43:25",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264405&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-264405",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "291.435,18 €",
+      "valor_subasta": "384.509,59 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "19.225,47 €"
+    },
+    {
       "titulo": "SUBASTA SUB-JA-2026-255939",
       "autoridad": "AUDIENCIA PROV. SECC. 21 - BARCELONA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 24/08/2026 a las 18:00:00]",
@@ -748,6 +782,23 @@
       "tasacion": "150.561,88 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "7.528,09 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-264667 (3 lotes)",
+      "autoridad": "Sección Civil e Instruc TI Manresa. Plz.n 3 - MANRESA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/08/2026 a las 18:00:00]",
+      "descripcion": "Subasta con varios lotes. Lote 1: ENTIDAD NUMERO UNO, NAVE INDUSTRIAL, de forma rectangular,\n          a la que se le asigna el número uno, de planta baja, sito en el término municipal de\n          SANTPEDOR, Polígono Industrial “Santa Anna III”, calle Camí de les Arenes, 8-10. Lote 2: ENTIDAD NUMERO DOS, NAVE INDUSTRIAL, de forma rectangular,\n          a la que se le asigna el número dos, de planta baja, sito en el término municipal de\n          SANTPEDOR, Polígono Industrial “Santa Anna III”, calle Camí de les Arenes, 8-10. Lote 3: ENTIDAD NUMERO TRES, NAVE INDUSTRIAL, de forma rectangular,\n          a la que se le asigna el número tres, de planta baja, sito en el término municipal de\n          SANTPEDOR, Polígono Industrial “Santa Anna III”, calle Camí de les Arenes, 8-10.",
+      "fecha_fin": "27/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264667&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-264667",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "441.758,32 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-JA-2025-243497 (4 lotes)",
@@ -1343,6 +1394,40 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "5.667,92 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-264923 (2 lotes)",
+      "autoridad": "Sección Civil e Instrucción TI Ibi. Plz.n 2 - IBI",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/08/2026 a las 18:00:00]",
+      "descripcion": "Subasta con varios lotes. Lote 1: FINCA DE ONIL Nº: 12144, (CÓDIGO REGISTRAL ÚNICO 03011000755941). URBANA. NUMERO SIETE. Vivienda tipo F, en el edificio sito en Onil, con fachada a calle Alcoy, a la calle Huerto de las Monjas, zona verde y acceso al parque. Está en la PLANTA BAJA y el portal uno, y tiene su acceso por la calle Alcoy. Tiene una superficie construida de ochenta y tres -83,57 m²-, y útil de setenta y tres metros y veintitrés decímetros cuadrados -73,23 m²-, con distribución propia para habitar. Linda: frente, zaguán; derecha entrando, cuarto transformador; izquierda, zona común entrada portal 1; y fondo, calle Alcoy.  Lote 2: FINCA DE ONIL Nº: 12181, (CÓDIGO REGISTRAL ÚNICO 03011000756313). URBANA. NUMERO CUARENTA Y CUATRO. Vivienda tipo A, en el edificio sito en Onil, con fachada a calle Alcoy, a la calle Huerto de las Monjas, zona verde y acceso al parque. Está en la PLANTA ÁTICO y el portal uno, y tiene su acceso por la calle Alcoy. Tiene una superficie construida de ciento setenta y nueve metros y sesenta y siete decímetros cuadrados -179,67 m²-, y útil de ciento sesenta y tres metros y veintidós decímetros cuadrados - 163,22 m²-, con distribución propia para habitar. Linda: frente, zaguán; derecha entrando, vivienda tipo A de la PLANTA SEGUNDA dúplex; izquierda, parque público y parcela A; y fondo, calle A en Proyecto",
+      "fecha_fin": "27/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264923&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
+      "id": "SUB-JA-2026-264923",
+      "es_vivienda": true,
+      "municipio": "El Edificio Sito En Onil",
+      "provincia": "Alicante",
+      "cantidad_reclamada": "823.015,93 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-265354",
+      "autoridad": "Sección Civil TI Benidorm. Plz.n 5 - BENIDORM",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 27/08/2026 a las 18:00:00]",
+      "descripcion": "Calle Sierra Dorada, nº 3, 10º G (del Portal 2) del conjunto residencial \"EL MIRADOR DEL MEDITERRANEO\" en Benidorm. Finca Registral 26905 inscrita en el Registro de la Propiedad nº 2 Benidorm al Tomo 882, Libro 396, Folio 135.",
+      "fecha_fin": "27/08/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265354&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
+      "id": "SUB-JA-2026-265354",
+      "es_vivienda": true,
+      "municipio": "Benidorm",
+      "provincia": "Alicante",
+      "cantidad_reclamada": "113.138,29 €",
+      "valor_subasta": "215.233,51 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "10.761,67 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263966",
