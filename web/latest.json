@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-08T08:50:45.510974",
-  "fecha": "08/08/2026 08:50:45",
+  "generado": "2026-08-09T08:52:23.146074",
+  "fecha": "09/08/2026 08:52:23",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-257588",
@@ -256,23 +256,6 @@
       "tasacion": "156.384,36 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "7.819,22 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-262804",
-      "autoridad": "Sección Civil TI Torrejón de Ardoz. Plz. n 3 - TORREJON DE ARDOZ",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/08/2026 a las 16:19:06]",
-      "descripcion": "Piso en Calle Ferrocarril, número 8 – 3º B de Torrejón de Ardoz",
-      "fecha_fin": "08/08/2026 16:19:06",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-262804&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-JA-2026-262804",
-      "es_vivienda": true,
-      "municipio": "Calle Ferrocarril",
-      "provincia": "Madrid",
-      "cantidad_reclamada": "77.786,12 €",
-      "valor_subasta": "186.200,00 €",
-      "tasacion": "186.200,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "9.310,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263392",
