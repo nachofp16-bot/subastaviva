@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-09T08:52:23.146074",
-  "fecha": "09/08/2026 08:52:23",
+  "generado": "2026-08-10T09:39:52.920789",
+  "fecha": "10/08/2026 09:39:52",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-257588",
@@ -544,23 +544,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "850,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-263368",
-      "autoridad": "Sección Civil e Instruc TI Arenys de Mar. Plz.n 6 - ARENYS MAR",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 12/08/2026 a las 18:00:00]",
-      "descripcion": "Vivienda familiar en calle Consell de Cent, 50, urbanización Ágora Park de Tordera",
-      "fecha_fin": "12/08/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263368&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-263368",
-      "es_vivienda": true,
-      "municipio": "Calle Consell De Cent",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "78.442,36 €",
-      "valor_subasta": "312.146,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "15.607,30 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-264701 (2 lotes)",
