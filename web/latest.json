@@ -1,6 +1,6 @@
 {
-  "generado": "2026-08-21T08:48:59.773015",
-  "fecha": "21/08/2026 08:48:59",
+  "generado": "2026-08-22T08:37:49.496674",
+  "fecha": "22/08/2026 08:37:49",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-264912",
@@ -479,6 +479,23 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "4.378,63 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-252131",
+      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 10/09/2026 a las 18:00:00]",
+      "descripcion": "Vivienda señalada con la letra A, situada a la parte  \n          izquierda del edificio visto desde la calle en Proyecto al sur, que tiene su acceso por medio de una escalera propia que va desde la expresada calle a la terraza de esta vivienda. Es dúplex o sea, que está formada entre la planta baja y el piso primero, comunicándose por medio de una escalera interior; del edificio denominado RESIDENCIAL \"EL ASOMBRO\", situado en la PLAYA DE GANDÍA, calle en Proyecto, sin número, con fachada también a la carretera de Servicio paralela a la Carretera Nazaret-Oliva y a otra calle en Proyecto, a las cuales forma esquina; en la planta baja tiene el comedor, aseo, cocina y terrazas\n          delantera y posterior, y en el piso primero dos habitaciones y cuarto de baño. Comprende una superficie la planta baja de treinta y cinco metros, noventa y seis decímetros cuadrados, el piso primero de treinta y tres, metros cincuenta y nueve decímetros cuadrados, la terraza delantera siete metros y medio, y la posterior nueve metros, sesenta y seis decímetros cuadrados.",
+      "fecha_fin": "10/09/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-252131&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
+      "id": "SUB-JA-2026-252131",
+      "es_vivienda": true,
+      "municipio": "La Playa De Gandía",
+      "provincia": "Valencia",
+      "cantidad_reclamada": "128.472,95 €",
+      "valor_subasta": "242.820,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "12.141,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-265154",
@@ -1095,23 +1112,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "73.780,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-264405",
-      "autoridad": "Sección Civil TI Barcelona. Plz.n 32 - BARCELONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 21/08/2026 a las 20:43:25]",
-      "descripcion": "Inscrita en el Registro de la Propiedad nº 24 de Barcelona,\n          finca 4956, tomo 3070, libro 166, folio 58, sección 2ª.",
-      "fecha_fin": "21/08/2026 20:43:25",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264405&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-264405",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "291.435,18 €",
-      "valor_subasta": "384.509,59 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "19.225,47 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-255939",
@@ -2335,6 +2335,23 @@
       "deposito": "12.432,65 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-264621",
+      "autoridad": "Sección Civil TI Benidorm. Plz.n 4 - BENIDORM",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 10/09/2026 a las 18:00:00]",
+      "descripcion": "VIVIENDA EN BENIDORM",
+      "fecha_fin": "10/09/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264621&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
+      "id": "SUB-JA-2026-264621",
+      "es_vivienda": true,
+      "municipio": "Benidorm",
+      "provincia": "Alicante",
+      "cantidad_reclamada": "103.624,11 €",
+      "valor_subasta": "126.614,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "6.330,70 €"
+    },
+    {
       "titulo": "SUBASTA SUB-JA-2026-265040",
       "autoridad": "Sección Civil TI Torremolinos. Plz. n 3 - TORREMOLINOS",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 24/08/2026 a las 18:00:00]",
@@ -2384,23 +2401,6 @@
       "tasacion": "111.609,32 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "5.580,46 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-265392 (2 lotes)",
-      "autoridad": "Sección Civil TI Málaga. Plz.n 4 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 31/08/2026 a las 18:00:00]",
-      "descripcion": "Subasta con varios lotes. Lote 1: FINCA REGISTRAL Nº 2388\n          REGISTRO DE LA PROPIEDAD Nº 1 DE MÁLAGA, inscrita al folio 213, tomo 2197 libro 133 Lote 2: FINCA REGISTRAL Nº 2386, REGISTRO DE LA PROPIEDAD Nº 1 de MÁLAGA, folio 81, tomo 2114, libro 110",
-      "fecha_fin": "31/08/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265392&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-265392",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "48.550,70 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-RC-2026-2959000125M19 (2 lotes)",
@@ -2584,6 +2584,23 @@
       "deposito": "681,17 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-263499",
+      "autoridad": "Sección Civil TI Málaga. Plz.n 9 - MALAGA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 10/09/2026 a las 18:00:00]",
+      "descripcion": "FINCA URBANA TREINTA Y OCHO. Piso número nueve. Vivienda \n          constituida por el piso tercera A de la escalera segunda del edificio enclavado en solar procedente de la antigua Huerta de Córdoba, en las proximidades al Barrio de Huelin, de la ciudad de Málaga, hoy Calle Barberito, dos, escalera dos, planta Tercera, puerta letra A.  Responde al tipo B de construcción y ocupa una superficie construida de setenta y tres metros treinta y tres decímetros cuadrados, siendo la superficie útil de cincuenta y cinco metros cuarenta y cuatro decímetros cuadrados; se distribuye en vestíbulo, estar-comedor,\n          con terraza, tres dormitorios, cocina, con terraza lavadero y baño. Tiene su entrada por una puerta existente a la derecha conforme se sube la escalera y con arreglo a esta entrada,\n          Linda: Por su frente, con el rellano y hueco de escalera y con el patio interior de luces del edificio; por su derecha entrando, con el mencionado patio de luces del edificio y con el piso\n          tercero D, de la escalera primera, por su izquierda, con el piso tercero B, de esta misma escalera y por su fondo, con zona ajardinada del edificio.",
+      "fecha_fin": "10/09/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263499&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
+      "id": "SUB-JA-2026-263499",
+      "es_vivienda": true,
+      "municipio": "Las Proximidades Al Barrio De Huelin",
+      "provincia": "Málaga",
+      "cantidad_reclamada": "86.466,05 €",
+      "valor_subasta": "161.172,43 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "8.058,62 €"
+    },
+    {
       "titulo": "SUBASTA SUB-JA-2026-263882",
       "autoridad": "Sección Civil TI Sevilla. Plz.n 18 - SEVILLA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 24/08/2026 a las 18:00:00]",
@@ -2714,6 +2731,40 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "6.806,23 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-263315",
+      "autoridad": "Sección Civil TI Sevilla. Plz.n 12 - SEVILLA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 10/09/2026 a las 18:00:00]",
+      "descripcion": "Finca urbana- Siete. Piso vivienda en el Barrio de la Macarena de Sevilla. Con superficie útil de ochenta y siete metros cuadrados. Planta 2ª. Calle Correa de Arauxo 1.",
+      "fecha_fin": "10/09/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263315&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptREVjUzEzZDNSK0QybUdscnhuNVZCYlBMTzQwYVVWRUZyK2U0S3hmYlVmcmJVc1pBZldlcGpTSUVTMWdOb25SMm9kb2ZVeFpKN09taUtMdExTb3VpSksxNzlIdjQ2VnFPeG1pb0tKZVJheTdGZUx4Q0tJSXBqVTNuUVN2VGlzbzAvNzE4SDhXQkhkeHVoMTBzdktjR2sveHo2bzcvY2lLSVZwb2V1cG5LQTIzVTZ4WnJhZ3dneTVsT0xlMlBaN05IQjBOVjZrMENZSEo4VzlzZjFMMkVuL2hjMzhrU1o5UmYvQnJUSERaUzVTbTlmRE5nTWc3QTVCeXoyNG9IeTdUTFgwbEoxSWQ3bGNkNzhsS0tSeTlLZnhKK3ZHT0FPNmxuRXpjTVEwRnFpOHd3S0ZQUGJTNGtYQm84dnhJaTVCOE56a2ZFQlVaUEVwRERwell6ZHlWYURNPQ,,--500",
+      "id": "SUB-JA-2026-263315",
+      "es_vivienda": true,
+      "municipio": "El Barrio De La Macarena De Sevilla",
+      "provincia": "Sevilla",
+      "cantidad_reclamada": "82.268,43 €",
+      "valor_subasta": "230.073,29 €",
+      "tasacion": "230.073,29 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "11.503,66 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-265371",
+      "autoridad": "Sección Civil TI Sevilla. Plz.n 15 - SEVILLA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 10/09/2026 a las 18:00:00]",
+      "descripcion": "VIVIENDA UNIFAMILIAR.- sita en la calle Camino Viejo, nº 100 de Tomares",
+      "fecha_fin": "10/09/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265371&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptREVjUzEzZDNSK0QybUdscnhuNVZCYlBMTzQwYVVWRUZyK2U0S3hmYlVmcmJVc1pBZldlcGpTSUVTMWdOb25SMm9kb2ZVeFpKN09taUtMdExTb3VpSksxNzlIdjQ2VnFPeG1pb0tKZVJheTdGZUx4Q0tJSXBqVTNuUVN2VGlzbzAvNzE4SDhXQkhkeHVoMTBzdktjR2sveHo2bzcvY2lLSVZwb2V1cG5LQTIzVTZ4WnJhZ3dneTVsT0xlMlBaN05IQjBOVjZrMENZSEo4VzlzZjFMMkVuL2hjMzhrU1o5UmYvQnJUSERaUzVTbTlmRE5nTWc3QTVCeXoyNG9IeTdUTFgwbEoxSWQ3bGNkNzhsS0tSeTlLZnhKK3ZHT0FPNmxuRXpjTVEwRnFpOHd3S0ZQUGJTNGtYQm84dnhJaTVCOE56a2ZFQlVaUEVwRERwell6ZHlWYURNPQ,,--500",
+      "id": "SUB-JA-2026-265371",
+      "es_vivienda": true,
+      "municipio": "La Calle Camino Viejo",
+      "provincia": "Sevilla",
+      "cantidad_reclamada": "48.500,11 €",
+      "valor_subasta": "106.283,10 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "5.314,15 €"
     }
   ]
 }
