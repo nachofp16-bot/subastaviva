@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-02T12:41:42.943322",
-  "fecha": "02/09/2026 12:41:42",
+  "generado": "2026-09-03T12:44:40.126324",
+  "fecha": "03/09/2026 12:44:40",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-264147",
@@ -18,23 +18,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "7.869,13 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-265141",
-      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 03/09/2026 a las 18:00:00]",
-      "descripcion": "Vivienda señalada con la puerta numero dos, ubicada en la planta baja del edificio\n          situado en Villamarchante, con fachada principal a la carretera de Lliria, sin número, hoy\n          número cincuenta y uno. Es del tipo F. Está distribuida para habitar y ocupa una superficie útil\n          de ochenta y cuatro decímetros cuadrados.",
-      "fecha_fin": "03/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265141&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-265141",
-      "es_vivienda": true,
-      "municipio": "Villamarchante",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "85.217,37 €",
-      "valor_subasta": "157.385,25 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "7.869,26 €"
     },
     {
       "titulo": "SUBASTA SUB-JV-2026-265556",
@@ -374,6 +357,22 @@
       "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
       "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+    },
+    {
+      "titulo": "SUBASTA SUB-AT-2026-26R2886001083",
+      "autoridad": "U.R. SUBASTAS MADRID - MADRID (AEAT)",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 03/09/2026 a las 15:08:34]",
+      "descripcion": "100% PLENO DOMINIO TRASTERO CL FRANCISCO RABAL 5 Es:10 Pl:-1 Pt:06 28500 ARGANDA DEL REY (MADRID)",
+      "fecha_fin": "03/09/2026 15:08:34",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R2886001083&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
+      "id": "SUB-AT-2026-26R2886001083",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Madrid",
+      "valor_subasta": "3.395,70 €",
+      "tasacion": "3.395,70 €",
+      "puja_minima": "339,57 €",
+      "deposito": "169,78 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263421",
@@ -817,40 +816,6 @@
       "deposito": "101.417,50 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-257765",
-      "autoridad": "Sec. Civil e Inst. TI Cerdanyola el Vallès Plz.n 6 - CERDANYOLA DEL VALLES",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 02/09/2026 a las 18:00:00]",
-      "descripcion": "1. URBANA: VIVIENDA, a la que en la Comunidad se le asigna el número TRES, planta bajos, puerta segunda, del edificio sito en Ripollet, calle Sant Lluís, número treinta y nueve, esquina Pasaje Sant Salvador. Consta de diversas dependencias y servicios, teniendo una superficie útil de CINCUENTA Y NUEVE METROS TREINTA Y UN DECIMETROS CUADRADOS. LINDA: por su frente, tomando como tal su puerta de entrada, parte con caja de la escalera, parte con rellano de la escalera, y parte con vivienda puerta primera de su misma planta; derecha, con Pasaje Sant Salvador; izquierda, con finca colindante del Pasaje Sant Salvador; y fondo, con Pasaje Sant Salvador. Se le asigna como anejo inseparable el trastero ubicado en la planta sótano del edificio, identificado como \"BAJOS SEGUNDA\", con una superficie útil de NUEVE METROS OCHO DECIMETROS CUADRADOS",
-      "fecha_fin": "02/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-257765&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-257765",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "91.529,44 €",
-      "valor_subasta": "244.100,00 €",
-      "tasacion": "244.100,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "12.205,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-257955 (2 lotes)",
-      "autoridad": "Sección Civil TI Barcelona. Plz.n 57 - BARCELONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 02/09/2026 a las 20:59:18]",
-      "descripcion": "Subasta con varios lotes. Lote 1: EDICTO Lote 2: EDICTO",
-      "fecha_fin": "02/09/2026 20:59:18",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-257955&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-257955",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "370.420,18 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-258299",
       "autoridad": "Sección Civil TI Badalona. Plz. n 6 - BADALONA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 03/09/2026 a las 18:00:00]",
@@ -1219,23 +1184,6 @@
       "tasacion": "2.612,12 €",
       "puja_minima": "261,21 €",
       "deposito": "130,60 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-259713",
-      "autoridad": "Sección Civil e Instrucción TI Cervera. Plz.n 1 - CERVERA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 21/09/2026 a las 18:00:00]",
-      "descripcion": "Finca 29986 y Finca 29976",
-      "fecha_fin": "21/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-259713&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-259713",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "4.227,45 €",
-      "valor_subasta": "245.466,19 €",
-      "tasacion": "245.466,19 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "12.273,31 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263146",
@@ -1882,40 +1830,6 @@
       "deposito": "4.195,06 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-262997 (2 lotes)",
-      "autoridad": "Sección Civil TI Torremolinos. Plz. n 5 - TORREMOLINOS",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 02/09/2026 a las 18:00:00]",
-      "descripcion": "Subasta con varios lotes. Lote 1: Vivienda sita en paseo del Generalife Nº 2 1ºB de Benalmadena, finca Nº 10947 Lote 2: Garaje sito en el edificio los Arcos de Benamiel plaza Nº 16 de Benalmadena, finca Nº 10949",
-      "fecha_fin": "02/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-262997&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-262997",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "31.507,17 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-264087",
-      "autoridad": "Sección Civil e Instrucción TI Estepona. Plz.n 2 - ESTEPONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 02/09/2026 a las 18:00:00]",
-      "descripcion": "URBANA: NÚMERO CUARENTA Y SEIS.- APARTAMENTO DENOMINADO 46, situado en la planta superior del edificio identificado como EDIFICIO CUATRO del COMPLEJO DE APARTAMENTOS TURISTICOS, denominado \"MANILVA PARK\" en término municipal de Manilva -Málaga-, Camino del Peñoncillo, sinnúmero. Tiene una superficie construida aproximada, incluida la de los elementos comunes, de setenta y tres metros cinco decímetroscuadrados. Se distribuye en hall-cocina-salón-comedor, un dormitorio, cuarto de baño y terraza en parte cubierta y en parte descubierta. Linda: tomando como frente su acceso al apartamento, derecha, entrando, con apartamento número 47; por la izquierda, con apartamento número 45; por el fondo con vuelo sobre terraza del apartamento número38 del mismo CUOTA.- Se le atribuye una cuota de participación en el edificio en que se integra de cero enteros quinientas treinta milésimas por ciento.",
-      "fecha_fin": "02/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264087&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-264087",
-      "es_vivienda": true,
-      "municipio": "Hall-Cocina-Salón-Comedor",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "71.295,69 €",
-      "valor_subasta": "118.665,93 €",
-      "tasacion": "118.665,93 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "5.933,29 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-25R2986001105",
       "autoridad": "U.R. SUBASTAS ANDALUCIA 29 - MALAGA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 07/09/2026 a las 18:00:00]",
@@ -2028,23 +1942,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "497,09 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-261517",
-      "autoridad": "Sección Civil e Instrucción TI Estepona. Plz.n 1 - ESTEPONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 14/09/2026 a las 18:00:00]",
-      "descripcion": "FINCA HIPOTECADA.- URBANA NUMERO OCHANTE Y TRES.- Apartamento señalado con el número 321-A1, en la planta segunda del edificio conocido con el nombre de Apartamentos del Golf, radicante en el término municipal de Manilva, integrado en la Urbanización El Hacho. Comprende una superficie de vivienda de cuarenta y siete metros trece decímetros cuadrados, más siete metros sesenta y un decímetros cuadrados de terraza y una participación de diez metros treinta y tres decímetros cuadrados en las zonas comunes del edificio, lo que da un total de sesenta y cuatro metros setenta decímetros cuadrados.\n          \n          INSCRIPCION.- Debidamente inscrita en el Registro de la Propiedad de Manilva, al Tomo 688, Libro 84, Folio 46, Finca Registral nº 6564.",
-      "fecha_fin": "14/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261517&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-261517",
-      "es_vivienda": true,
-      "municipio": "El Término Municipal De Manilva",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "318.562,00 €",
-      "valor_subasta": "257.000,00 €",
-      "tasacion": "257.500,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "12.850,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263243",
