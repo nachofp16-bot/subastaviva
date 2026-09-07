@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-06T12:04:27.113035",
-  "fecha": "06/09/2026 12:04:27",
+  "generado": "2026-09-07T14:09:30.889551",
+  "fecha": "07/09/2026 14:09:30",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-264244 (2 lotes)",
@@ -408,23 +408,6 @@
       "tasacion": "261.380,00 €",
       "puja_minima": "209.104,00 €",
       "deposito": "26.138,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-263421",
-      "autoridad": "Sección Civil TI Madrid. Plz.n 31 - MADRID",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 07/09/2026 a las 18:00:00]",
-      "descripcion": "FR 48.547 RP 17 DE MADRID-Vivienda Unifamiliar sita en CALLE RIOBAMBA Nº 50 de Madrid",
-      "fecha_fin": "07/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-263421&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-JA-2026-263421",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Madrid",
-      "cantidad_reclamada": "46.723,95 €",
-      "valor_subasta": "559.244,77 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "200,00 €",
-      "deposito": "27.962,23 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263868",
@@ -2329,6 +2312,23 @@
       "tasacion": "58.004,34 €",
       "puja_minima": "5.800,43 €",
       "deposito": "2.900,21 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-257879",
+      "autoridad": "Sección Civil e Instrucción TI Lebrija. Plz.n 2 - LEBRIJA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 07/09/2026 a las 20:01:27]",
+      "descripcion": "URBANA. FINCA REGISTRAL  22397 DEL REGISTRO DE LA PROPIEDAD  NUM. 2 DE UTRERA.",
+      "fecha_fin": "07/09/2026 20:01:27",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-257879&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptREVjUzEzZDNSK0QybUdscnhuNVZCYlBMTzQwYVVWRUZyK2U0S3hmYlVmcmJVc1pBZldlcGpTSUVTMWdOb25SMm9kb2ZVeFpKN09taUtMdExTb3VpSksxNzlIdjQ2VnFPeG1pb0tKZVJheTdGZUx4Q0tJSXBqVTNuUVN2VGlzbzAvNzE4SDhXQkhkeHVoMTBzdktjR2sveHo2bzcvY2lLSVZwb2V1cG5LQTIzVTZ4WnJhZ3dneTVsT0xlMlBaN05IQjBOVjZrMENZSEo4VzlzZjFMMkVuL2hjMzhrU1o5UmYvQnJUSERaUzVTbTlmRE5nTWc3QTVCeXoyNG9IeTdUTFgwbEoxSWQ3bGNkNzhsS0tSeTlLZnhKK3ZHT0FPNmxuRXpjTVEwRnFpOHd3S0ZQUGJTNGtYQm84dnhJaTVCOE56a2ZFQlVaUEVwRERwell6ZHlWYURNPQ,,--500",
+      "id": "SUB-JA-2026-257879",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Sevilla",
+      "cantidad_reclamada": "1.112,56 €",
+      "valor_subasta": "6.000,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "1.000,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263433",
