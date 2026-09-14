@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-13T13:14:49.798992",
-  "fecha": "13/09/2026 13:14:49",
+  "generado": "2026-09-14T14:55:49.742537",
+  "fecha": "14/09/2026 14:55:49",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-262533",
@@ -86,23 +86,6 @@
       "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
       "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-264938",
-      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 16/09/2026 a las 18:00:00]",
-      "descripcion": "VIVIENDA EN ALCÁSSER. \"URBANA SIETE: Vivienda tipo B, sita en segunda planta alta, puerta señalada en la escalera con el número siete, del edificio sito en término de Alcásser, Partida del Calvario, en la Unidad de Ejecución R-1, calle en Proyecto continuación de la calle La Pau, hoy calle la Pau, donde está señalada con el número diez. Tiene una superficie útil de noventa metros cuadrados. Distribuida en las necesarias\n          piezas y servicios para habitar. Linda mirando desde la calle la Pau: Frente, dicha calle; derecha mirando a fachada, general del edificio y patio de luces; izquierda, vivienda tipo Al, rellano de planta y ascensor; fondo, patio de luces, vivienda tipo C, y ascensor. CUOTA DE PARTICIPACION: Tres coma treinta y dos por ciento.",
-      "fecha_fin": "16/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264938&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-264938",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "120.061,60 €",
-      "valor_subasta": "169.920,00 €",
-      "tasacion": "169.920,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "8.496,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-265326 (2 lotes)",
@@ -1487,23 +1470,6 @@
       "deposito": "15.859,25 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2025-247520",
-      "autoridad": "JUZGADO 1 INST E INSTRUCC. 7 - CERDANYOLA DEL VALLES",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 14/09/2026 a las 19:10:38]",
-      "descripcion": "VER EDICTO ADJUNTO",
-      "fecha_fin": "14/09/2026 19:10:38",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2025-247520&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2025-247520",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "52.784,96 €",
-      "valor_subasta": "73.634,14 €",
-      "tasacion": "73.634,14 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "3.681,71 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-264713",
       "autoridad": "Sección Civil TI Barcelona. Plz.n 41 - BARCELONA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 17/09/2026 a las 18:00:00]",
@@ -1984,22 +1950,6 @@
       "deposito": "12.298,63 €"
     },
     {
-      "titulo": "SUBASTA SUB-AT-2026-26R4586001168",
-      "autoridad": "U.R. SUBASTAS CASTILLA-MANCHA - TOLEDO (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/09/2026 a las 18:00:00]",
-      "descripcion": "50% VIVIENDA. CL/ MN JACINT VERDAGUER, 84. 08394 - SANT VICEN  DE MONTALT (BARCELON",
-      "fecha_fin": "28/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R4586001168&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-AT-2026-26R4586001168",
-      "es_vivienda": true,
-      "municipio": "Sant Vicen  De Montalt",
-      "provincia": "Barcelona",
-      "valor_subasta": "175.625,64 €",
-      "tasacion": "175.625,64 €",
-      "puja_minima": "17.562,56 €",
-      "deposito": "8.781,28 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2021-166495 (3 lotes)",
       "autoridad": "Sección Civil e Instrucción TI Gavà. Plz.n 1 - GAVA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/09/2026 a las 18:00:00]",
@@ -2355,23 +2305,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "5.103,47 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-265020",
-      "autoridad": "Sección Civil e Instrucción TI Rubí. Plz.n 6 - RUBI",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 30/09/2026 a las 18:00:00]",
-      "descripcion": "Vivienda",
-      "fecha_fin": "30/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265020&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-265020",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "265.631,45 €",
-      "valor_subasta": "473.061,60 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "23.653,08 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-265117",
