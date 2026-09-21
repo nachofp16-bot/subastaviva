@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-20T12:59:25.019321",
-  "fecha": "20/09/2026 12:59:25",
+  "generado": "2026-09-21T15:01:22.290584",
+  "fecha": "21/09/2026 15:01:22",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001328",
@@ -51,23 +51,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "17.511,75 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-264383",
-      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 21/09/2026 a las 18:00:00]",
-      "descripcion": "Vivienda sita en calle de los Hierros número 35,\n          hoy 33 según consta acreditado en la finca 5172 de la Sección 11ª Vivienda\n          en planta baja señalada su puerta con el número UNO, compuesta de tres\n          dormitorios, comedor, cocina, cuarto de aseo, vestíbulo, corralito;",
-      "fecha_fin": "21/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264383&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-264383",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "13.944,08 €",
-      "valor_subasta": "25.766,25 €",
-      "tasacion": "25.766,25 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "1.288,31 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-265477 (2 lotes)",
@@ -136,23 +119,6 @@
       "tasacion": "196.976,72 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "39.395,34 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-265453",
-      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 24/09/2026 a las 18:00:00]",
-      "descripcion": "URBANA: SIETE.- Vivienda en segunda planta alta, tipo A, señalada su puerta con el número seis, con vistas a la calle Santa Clara, del edificio situado en Alaquàs, Partida del Bobalar, con fachada principal a la calle Santa Clara, portal número cinco; consta de varias dependencias para habitar; comprende una superficie construida de ciento cuatro metros y veintidós decímetros cuadrados y útil de ochenta y tres metros y cincuenta y cinco decímetros cuadrados, según el título real, según Calificación Definitiva de ciento cuatro metros cuarenta y un decímetros cuadrados la construida y de ochenta y nueve metros cincuenta y nueve decímetros cuadrados la útil. Linda, mirando desde la calle Santa Clara: frente, vuelo de dicha calle; derecha mirando, viviendas puertas siete y diez, patio de luces y rellano escalera; izquierda y fondo, los generales del edificio. Cuota: tres enteros setenta y cinco centésimas por ciento -3'75%-.",
-      "fecha_fin": "24/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265453&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-265453",
-      "es_vivienda": true,
-      "municipio": "Alaquàs",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "82.890,71 €",
-      "valor_subasta": "164.118,24 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "8.205,91 €"
     },
     {
       "titulo": "SUBASTA SUB-JV-2026-264500",
@@ -321,23 +287,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "22.543,32 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-265375",
-      "autoridad": "Sección Civil e Instrucción TI Picassent. Plz.n 3 - PICASSENT",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/09/2026 a las 18:00:00]",
-      "descripcion": "Urbana número 26 de orden: Vivienda en planta primera, puerta tres, del edificio sito en Picassent, calle Sor Luisa nº 4, escalera cuarta, tipo E. mide ciento seis metros, setenta y ocho decímetros cuadros se superficie construida y ochenta metros, veinte decímetros cuadrados útil, con distrubición propia para habitar",
-      "fecha_fin": "28/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265375&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-265375",
-      "es_vivienda": true,
-      "municipio": "Picassent",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "43.430,49 €",
-      "valor_subasta": "116.713,40 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "5.835,67 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2025-254544 (4 lotes)",
@@ -966,23 +915,6 @@
       "tasacion": "65.059,07 €",
       "puja_minima": "6.505,91 €",
       "deposito": "3.252,95 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-260499",
-      "autoridad": "Sección Civil TI Palma. Plz.n 9 - PALMA DE MALLORCA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 21/09/2026 a las 18:00:00]",
-      "descripcion": "FINCA REGISTRAL “URBANA: Piso segundo procedente de la finca número 34 de la calle de San Miguel, en término de Llucmajor. Ocupa una superficie de CIENTO ONCE METROS CUADRADOS, además de una terraza posterior de VEINTICINCO CON CINCUENTA METROS CUADRADOS. Linda: por frente, con la calle San Miguel; por la derecha entrando, con casa y corral de Juana María Tomás y con corral de Lucía Amengual; por la izquierda, con otra casa y corral de Bernardo Contestí y con rellano; por el fondo, con vuelo del corral de la planta baja y por la parte inferior con el piso primero. Su cuota es del 25 por ciento.",
-      "fecha_fin": "21/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-260499&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-JA-2026-260499",
-      "es_vivienda": true,
-      "municipio": "Llucmajor",
-      "provincia": "Madrid",
-      "cantidad_reclamada": "140.203,14 €",
-      "valor_subasta": "155.194,50 €",
-      "tasacion": "155.194,50 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "7.759,72 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-263955",
@@ -4720,23 +4652,6 @@
       "deposito": "5.446,64 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-265392 (2 lotes)",
-      "autoridad": "Sección Civil TI Málaga. Plz.n 4 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 20/09/2026 a las 18:53:13]",
-      "descripcion": "Subasta con varios lotes. Lote 1: FINCA REGISTRAL Nº 2388\n          REGISTRO DE LA PROPIEDAD Nº 1 DE MÁLAGA, inscrita al folio 213, tomo 2197 libro 133 Lote 2: FINCA REGISTRAL Nº 2386, REGISTRO DE LA PROPIEDAD Nº 1 de MÁLAGA, folio 81, tomo 2114, libro 110",
-      "fecha_fin": "20/09/2026 18:53:13",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265392&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-265392",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "48.550,70 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-262744",
       "autoridad": "Sección Civil TI Torremolinos. Plz. n 1 - TORREMOLINOS",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 21/09/2026 a las 18:00:00]",
@@ -4955,23 +4870,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "10.050,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-265295",
-      "autoridad": "Sección Civil TI Torremolinos. Plz. n 4 - TORREMOLINOS",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 30/09/2026 a las 18:00:00]",
-      "descripcion": "Vivienda sita en Avenida Palmeras Nº 44 puerta 7 de Benalmadena, finca Nº 14930 del registro de la propiedad Nº 2 de Benalmadena",
-      "fecha_fin": "30/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265295&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-265295",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "156.000,19 €",
-      "valor_subasta": "340.856,22 €",
-      "tasacion": "340.856,22 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "17.042,81 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-264857 (2 lotes)",
