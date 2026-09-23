@@ -1,6 +1,6 @@
 {
-  "generado": "2026-09-22T13:18:40.475188",
-  "fecha": "22/09/2026 13:18:40",
+  "generado": "2026-09-23T13:32:35.395343",
+  "fecha": "23/09/2026 13:32:35",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2026-257469",
@@ -474,23 +474,6 @@
       "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
       "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-264048",
-      "autoridad": "Sección Civil e Instrucción TI Sueca. Plz.n 2 - SUECA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 07/10/2026 a las 18:00:00]",
-      "descripcion": "CONSTA EN EDICTO",
-      "fecha_fin": "07/10/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-264048&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-264048",
-      "es_vivienda": false,
-      "municipio": "Edicto",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "21.352,09 €",
-      "valor_subasta": "137.158,44 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "6.857,92 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-265996",
@@ -1809,23 +1792,6 @@
       "deposito": "24.084,75 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-265128",
-      "autoridad": "Sección Civil TI Sabadell. Plz.n 10 - SABADELL",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/09/2026 a las 18:00:00]",
-      "descripcion": "Finca 27344 del Registro de la Propiedad número 1 de SABADELL",
-      "fecha_fin": "28/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265128&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-265128",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "221.922,29 €",
-      "valor_subasta": "222.594,23 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "11.129,71 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-265156",
       "autoridad": "Sección Civil e Instrucción TI Igualada. Plz.n 3 - IGUALADA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/09/2026 a las 18:00:00]",
@@ -2620,6 +2586,23 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "325,00 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-259713",
+      "autoridad": "Sección Civil e Instrucción TI Cervera. Plz.n 1 - CERVERA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 11/10/2026 a las 15:29:15]",
+      "descripcion": "Finca 29986 y Finca 29976",
+      "fecha_fin": "11/10/2026 15:29:15",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-259713&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-259713",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "4.227,45 €",
+      "valor_subasta": "245.466,19 €",
+      "tasacion": "245.466,19 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "12.273,31 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-264112",
@@ -3961,23 +3944,6 @@
       "deposito": "5.446,64 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-262744",
-      "autoridad": "Sección Civil TI Torremolinos. Plz. n 1 - TORREMOLINOS",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 22/09/2026 a las 15:57:21]",
-      "descripcion": "FINCA  REGISTRAL  Nº  996,  inscrita  en  el  REGISTRO  DE  LA  PROPIEDAD Nº 10 DE MÁLAGA, al TOMO 1990, LIBRO 162, FOLIO 26.",
-      "fecha_fin": "22/09/2026 15:57:21",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-262744&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-262744",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "38.750,39 €",
-      "valor_subasta": "50.179,65 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "2.508,98 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R4586001170",
       "autoridad": "U.R. SUBASTAS CASTILLA-MANCHA - TOLEDO (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/09/2026 a las 18:00:00]",
@@ -4094,23 +4060,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "7.145,01 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-265411",
-      "autoridad": "Sección Civil TI Málaga. Plz.n 20 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 28/09/2026 a las 18:00:00]",
-      "descripcion": "Finca registral nº 11.984 del Registro de la Propiedad de Álora, inscrita al tomo 1167, libro 154, folio 89",
-      "fecha_fin": "28/09/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265411&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-265411",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "47.482,69 €",
-      "valor_subasta": "96.354,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "4.817,70 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-265439",
