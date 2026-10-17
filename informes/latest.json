@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-16T13:09:02.023442",
-  "fecha": "16/10/2026 13:09:02",
+  "generado": "2026-10-17T12:04:57.558278",
+  "fecha": "17/10/2026 12:04:57",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001444",
@@ -79,7 +79,12 @@
       "id": "SUB-JA-2026-266210",
       "es_vivienda": true,
       "municipio": "",
-      "provincia": "Valencia"
+      "provincia": "Valencia",
+      "cantidad_reclamada": "690.637,96 €",
+      "valor_subasta": "698.610,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "34.930,50 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-266225",
@@ -1807,6 +1812,23 @@
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-267267",
+      "autoridad": "Sección Civil TI Madrid. Plz.n 31 - MADRID",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
+      "descripcion": "FR 34.182 RP 16 DE MADRID-VIVIENDA C/CARRASCALES Nº 4 1º IZQUIERDA DE MADRID.",
+      "fecha_fin": "05/11/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267267&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
+      "id": "SUB-JA-2026-267267",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Madrid",
+      "cantidad_reclamada": "130.727,10 €",
+      "valor_subasta": "217.400,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "200,00 €",
+      "deposito": "43.480,00 €"
+    },
+    {
       "titulo": "SUBASTA SUB-JA-2026-265301",
       "autoridad": "Sección Civil e Instrucción TI Berga. Plz.n 2 - BERGA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 18/10/2026 a las 15:53:14]",
@@ -3209,6 +3231,74 @@
       "deposito": "39.682,52 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-265765",
+      "autoridad": "Sección Civil e Instrucción TI Rubí. Plz.n 6 - RUBI",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
+      "descripcion": "Lote único compuesto de dos fincas registrales.",
+      "fecha_fin": "05/11/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265765&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-265765",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "197.298,47 €",
+      "valor_subasta": "222.407,50 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "11.120,37 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-266151",
+      "autoridad": "Sección Civil e Instruc TI Vilanova i la Geltrú. Plz.n 8 - VILANOVA I LA GELTRU",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
+      "descripcion": "Lote compuesto de vivienda",
+      "fecha_fin": "05/11/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266151&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-266151",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "703.270,59 €",
+      "valor_subasta": "923.238,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "46.161,90 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-266365",
+      "autoridad": "Sección Civil TI Badalona. Plz. n 5 - BADALONA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
+      "descripcion": "ENTIDAD NÚMERO QUINIENTOS DIECIOCHO.- PISO SÉPTIMO,\n          PUERTA SEGUNDA, del bloque dieciocho del total complejo urbanístico sito en Badalona, con frente a la calle Hipólito Lázaro y Avenida Marqués de Sant Mori, que consta de varias habitaciones, dependencias y servicios: mide una superfície útil y aproximada de cincuenta y nueve metros veintiséis decímetros cuadrados. LINDA: Al Norte, con zona común del complejo urbanístico; al Sur, con puerta tercera de este\n          bloque; al Est, con zona común del complejo urbanístico; y al Oeste, con puerta primera de este bloque. CUOTA: Con respecto al complejo del 0,168 por ciento y respecto al bloque del 2,617 por ciento.",
+      "fecha_fin": "05/11/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266365&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-266365",
+      "es_vivienda": true,
+      "municipio": "Badalona",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "109.180,49 €",
+      "valor_subasta": "253.500,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "12.675,00 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JV-2026-259862",
+      "autoridad": "Sección Familia TI Barcelona. Plz.n 8 - BARCELONA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
+      "descripcion": "Vivienda tipo C piso cuarto puerta cuarta, en la quinta planta alta o séptima contando la de sótanos del edificio número quinientos sesenta y ocho de la Avenida Meridiana de Barcelona. Se compone de diversas dependencias. Extensión: cincuenta y seis metros veintinueve decímetros cuadrados. Linderos: frente Oeste, con la Avenida Meridiana; izquierda entrando,Norte, con la puerta tercera de su misma planta; derecha Sur, con Frapesa en parte mediante patinejo; fondo Este, con rellano de la escalera por donde tiene su entrada y hueco del ascensor y de un patio interior; y debajo y encima, con la puerta cuarta de las respectivas plantas inferior y superior. Cuota: 1'560%.",
+      "fecha_fin": "05/11/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JV-2026-259862&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JV-2026-259862",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "0,00 €",
+      "valor_subasta": "172.000,00 €",
+      "tasacion": "172.000,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "8.600,00 €"
+    },
+    {
       "titulo": "SUBASTA SUB-AT-2026-26R3086001095",
       "autoridad": "U.R. SUBASTAS MURCIA - MURCIA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 19/10/2026 a las 18:00:00]",
@@ -4463,6 +4553,40 @@
       "deposito": "1.238,74 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-261161",
+      "autoridad": "Sección Civil TI Orihuela. Plz.n 3 - ORIHUELA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
+      "descripcion": "URBANA.- NUMERO DOS.- VIVIENDA tipo dúplex tipo B17, sita en\n          calle Benissa del Pilar de la Horadada. Se encuentra según se mira desde\n          la calle de su situación, segunda contando de izquierda a derecha.\n          Distribuida en diferentes dependencias, habitaciones y servicios. Ambas\n          plantas se comunican interiormente mediante escalera. Inscrita en el\n          Registro de la Propiedad de Pilar de la Horadada, al Tomo 1782, Libro 224,\n          Folio 161, Finca número 18.645, inscripción 3ª.",
+      "fecha_fin": "05/11/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261161&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
+      "id": "SUB-JA-2026-261161",
+      "es_vivienda": true,
+      "municipio": "Diferentes Dependencias",
+      "provincia": "Alicante",
+      "cantidad_reclamada": "133.334,75 €",
+      "valor_subasta": "173.672,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "8.683,60 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2026-267399",
+      "autoridad": "Servicio de Gestión Subastas de Alicante - ALICANTE/ALACANT",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
+      "descripcion": "Que la descripción de la finca a que dicha instancia se refiere con CODIGO REGISTRAL UNICO: 03024000260872, registral 15102, es como sigue: URBANA. NÚMERO CINCO. Vivienda en el piso primero izquierda, desde el descansillo de la escalera, del edificio sito en San Vicente del Raspeig, en la Calle San José, número quince de policía; es de tipo C; tiene una superficie construida de ciento dieciocho metros, cuarenta y cinco decímetros. Consta de vestíbulo, comedor, cuatro dormitorios, cocina, baño, aseo, solanas y galería a patio interior de luces que arranca desde esta planta. Linda mirando la puerta de entrada de la vivienda: Derecha con Calle San José; Izquierda, con patio del local número dos y con Mercedes Antón Guijarro; y Fondo, con Mercedes Antón Guijarro. Esta vivienda tiene derecho al uso exclusivo de la mitad del patio de luces recayente a la misma, pero sin poder edificar en él. Cuota: Representa una cuota en el valor total del inmueble y en sus elementos comunes de ocho enteros, treinta centésimas por ciento. Obra nueva terminada. Referencia  catastral: 6329005YH1562N0005SJ.",
+      "fecha_fin": "05/11/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267399&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
+      "id": "SUB-JA-2026-267399",
+      "es_vivienda": true,
+      "municipio": "",
+      "provincia": "Alicante",
+      "cantidad_reclamada": "112.847,76 €",
+      "valor_subasta": "205.200,00 €",
+      "tasacion": "205.200,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "10.260,00 €"
+    },
+    {
       "titulo": "SUBASTA SUB-AT-2026-26R2986001050",
       "autoridad": "U.R. SUBASTAS ANDALUCÍA 29 - MALAGA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 19/10/2026 a las 18:00:00]",
@@ -5095,12 +5219,7 @@
       "id": "SUB-JA-2026-266094",
       "es_vivienda": false,
       "municipio": "Cortijo Doña Ermita De Mijas",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "193.492,52 €",
-      "valor_subasta": "420.010,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "21.000,50 €"
+      "provincia": "Málaga"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-266464",
@@ -5186,6 +5305,23 @@
       "tasacion": "250.893,90 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "12.544,69 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2025-255341",
+      "autoridad": "Sección Civil TI Torremolinos. Plz. n 5 - TORREMOLINOS",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
+      "descripcion": "Finca registral 39.924, inscrita en el Registro de la Propiedad n.º 2 de Benalmádena. Dirección C/Poseidón n.º 6 (Urb. Jardines de Torrequebrada), Bloque 1.º B, Bajo Puerta G, \n          29639,Benalmádena",
+      "fecha_fin": "05/11/2026 18:00:00",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2025-255341&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
+      "id": "SUB-JA-2025-255341",
+      "es_vivienda": false,
+      "municipio": "El Registro De La Propiedad N",
+      "provincia": "Málaga",
+      "cantidad_reclamada": "107.760,15 €",
+      "valor_subasta": "195.100,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "9.755,00 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4186001252",
