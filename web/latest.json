@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-17T12:04:57.558278",
-  "fecha": "17/10/2026 12:04:57",
+  "generado": "2026-10-18T12:33:12.384901",
+  "fecha": "18/10/2026 12:33:12",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001444",
@@ -5219,7 +5219,12 @@
       "id": "SUB-JA-2026-266094",
       "es_vivienda": false,
       "municipio": "Cortijo Doña Ermita De Mijas",
-      "provincia": "Málaga"
+      "provincia": "Málaga",
+      "cantidad_reclamada": "193.492,52 €",
+      "valor_subasta": "420.010,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "21.000,50 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-266464",
