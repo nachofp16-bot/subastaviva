@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-25T13:07:19.809518",
-  "fecha": "25/10/2026 13:07:19",
+  "generado": "2026-10-26T15:03:41.980440",
+  "fecha": "26/10/2026 15:03:41",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4186001398",
@@ -846,23 +846,6 @@
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-267084",
-      "autoridad": "Sección Civil TI Toledo. Plz.n 3 - TOLEDO",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 29/10/2026 a las 18:00:00]",
-      "descripcion": "Urbana: cuatro. vivienda buhardillada letra A, situada en la\n          planta buhardilla o segunda alta del edificio localidad Paracuellos\n          del Jarama Calle Torrelaguna n º 3",
-      "fecha_fin": "29/10/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267084&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-JA-2026-267084",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Madrid",
-      "cantidad_reclamada": "116.300,00 €",
-      "valor_subasta": "112.346,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "5.617,30 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001034",
       "autoridad": "U.R. SUBASTAS MADRID - MADRID (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00]",
@@ -1138,23 +1121,6 @@
       "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
       "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-267267",
-      "autoridad": "Sección Civil TI Madrid. Plz.n 31 - MADRID",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
-      "descripcion": "FR 34.182 RP 16 DE MADRID-VIVIENDA C/CARRASCALES Nº 4 1º IZQUIERDA DE MADRID.",
-      "fecha_fin": "05/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267267&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-JA-2026-267267",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Madrid",
-      "cantidad_reclamada": "130.727,10 €",
-      "valor_subasta": "217.400,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "200,00 €",
-      "deposito": "43.480,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2024-232137",
@@ -2243,6 +2209,23 @@
       "deposito": "12.675,00 €"
     },
     {
+      "titulo": "SUBASTA SUB-JA-2026-266368",
+      "autoridad": "Sección Civil TI Badalona. Plz. n 6 - BADALONA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/11/2026 a las 17:09:21]",
+      "descripcion": "URBANA. FINCA NÚMERO DOS. VIVIENDA de Protección Oficial del Grupo denominado Pomar de Badalona, bloque C-dos, casa número novena, PLANTA PRIMERA, PUERTA SEGUNDA, hoy Avenida Primer de Maig, catorce. Tiene una superfície construïda, incluida la parte proporcional en elementos comunes, de unos setenta y un metros cincuenta y cinco decímetres cuadrados. Se compone de vestíbulo, cocina, comedor-estar paso, tres dormitorios, baño y galeria-lavadero. LINDA: por su frente entrando, con caja de escalera , vivienda primera de su misma planta y espacio libre; por su derecha entrando, con espacio libre de la urbanización, por su izquierda entrando, con la Avenida del catorce de Diciembre; y al fondo, con el espacio libre de la urbanización.",
+      "fecha_fin": "08/11/2026 17:09:21",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266368&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
+      "id": "SUB-JA-2026-266368",
+      "es_vivienda": true,
+      "municipio": "Elementos Comunes",
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "178.806,83 €",
+      "valor_subasta": "255.300,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "12.765,00 €"
+    },
+    {
       "titulo": "SUBASTA SUB-AT-2026-26R0886001259",
       "autoridad": "U.R. SUBASTAS CATALUÑA - BARCELONA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
@@ -3064,23 +3047,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "2.607,55 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-266935",
-      "autoridad": "Sección Civil TI Orihuela. Plz.n 6 - ORIHUELA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 26/10/2026 a las 18:00:00]",
-      "descripcion": "Bungalow número 104, bloque 28, del Residencial Iria V, de planta semisótano\n          destinada a garaje con acceso desde el vial del residencial, con una superficie\n          construida de cuarenta y seis metros setenta y cuatro decímetros cuadrados; plánta\n          baja destinada a porche, salón-comedor, cocina, un dormitorio, y aseo; planta alta,\n          en la que se ubica dos dormitorios,, baño y terraza; y solarium que cubre la vivienda.\n          Tienen una superficie construida, las plantas -baja y primera— de ochenta y cinco\n          metros se tenta y siete decímetroscuadrados, en total tiene una superficie construida\n          de ciento treinta y dos metros cuarenta y un decimetros cuadrados. Se comunican\n          todas las plantas por escalera interior. Le corresponde también la zona ajardinada\n          delimitada y situada en su frente entrando con una superficie aproximada de veintidós\n          metros buadrados. Linda según se entra: derecha, vivienda número 103 de este\n          bloque; izquierda, vivienda número 105 de este bloque; fondo, vial del residencial; y\n          frente, vial del Plan Parcial, vial del Plan Parcial, su jardín por medio",
-      "fecha_fin": "26/10/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266935&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-JA-2026-266935",
-      "es_vivienda": true,
-      "municipio": "La Que Se Ubica Dos Dormitorios",
-      "provincia": "Alicante",
-      "cantidad_reclamada": "104.783,85 €",
-      "valor_subasta": "178.753,50 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "8.937,67 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-266939",
@@ -4234,23 +4200,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "12.086,34 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-265169",
-      "autoridad": "Sección Civil TI Málaga. Plz.n 13 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 02/11/2026 a las 18:00:00]",
-      "descripcion": "REGISTRO DE LA PROPIEDAD Nº 13 DE MÁLAGA, folio 222, tomo 2285, libro 179,  sección 5.",
-      "fecha_fin": "02/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265169&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-265169",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "4.940,00 €",
-      "valor_subasta": "430.893,35 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "21.544,66 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-266094",
