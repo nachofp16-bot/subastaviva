@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-31T14:27:00.944465",
-  "fecha": "31/10/2026 14:27:00",
+  "generado": "2026-11-01T14:54:30.753416",
+  "fecha": "01/11/2026 14:54:30",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-JA-2025-243395",
@@ -1108,7 +1108,11 @@
       "id": "SUB-AT-2026-26R2886001529",
       "es_vivienda": false,
       "municipio": "",
-      "provincia": "Madrid"
+      "provincia": "Madrid",
+      "valor_subasta": "48.480,00 €",
+      "tasacion": "60.600,00 €",
+      "puja_minima": "4.848,00 €",
+      "deposito": "2.424,00 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001546",
