@@ -1,7 +1,24 @@
 {
-  "generado": "2026-11-04T16:07:08.823881",
-  "fecha": "04/11/2026 16:07:08",
+  "generado": "2026-11-05T16:21:02.098604",
+  "fecha": "05/11/2026 16:21:02",
   "subastas": [
+    {
+      "titulo": "SUBASTA SUB-JA-2024-225227",
+      "autoridad": "JUZGADO 1ª INST E INSTRUCC. 6 - ALZIRA",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 07/11/2026 a las 20:40:08]",
+      "descripcion": "FINCA REGISTRAL Nº 2.161 INSCRITA EN EL REGISTRO DE LA PROPIEDAD DE XÀTIVA",
+      "fecha_fin": "07/11/2026 20:40:08",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2024-225227&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
+      "id": "SUB-JA-2024-225227",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Valencia",
+      "cantidad_reclamada": "29.017,13 €",
+      "valor_subasta": "89.954,76 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "4.497,73 €"
+    },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001318",
       "autoridad": "U.R. SUBASTAS VALENCIA - VALENCIA (AEAT)",
@@ -258,12 +275,7 @@
       "id": "SUB-JA-2026-264449",
       "es_vivienda": false,
       "municipio": "",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "735.152,69 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+      "provincia": "Valencia"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-266993",
@@ -3397,9 +3409,9 @@
     {
       "titulo": "SUBASTA SUB-JA-2026-267399",
       "autoridad": "Servicio de Gestión Subastas de Alicante - ALICANTE/ALACANT",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:15:25]",
       "descripcion": "Que la descripción de la finca a que dicha instancia se refiere con CODIGO REGISTRAL UNICO: 03024000260872, registral 15102, es como sigue: URBANA. NÚMERO CINCO. Vivienda en el piso primero izquierda, desde el descansillo de la escalera, del edificio sito en San Vicente del Raspeig, en la Calle San José, número quince de policía; es de tipo C; tiene una superficie construida de ciento dieciocho metros, cuarenta y cinco decímetros. Consta de vestíbulo, comedor, cuatro dormitorios, cocina, baño, aseo, solanas y galería a patio interior de luces que arranca desde esta planta. Linda mirando la puerta de entrada de la vivienda: Derecha con Calle San José; Izquierda, con patio del local número dos y con Mercedes Antón Guijarro; y Fondo, con Mercedes Antón Guijarro. Esta vivienda tiene derecho al uso exclusivo de la mitad del patio de luces recayente a la misma, pero sin poder edificar en él. Cuota: Representa una cuota en el valor total del inmueble y en sus elementos comunes de ocho enteros, treinta centésimas por ciento. Obra nueva terminada. Referencia  catastral: 6329005YH1562N0005SJ.",
-      "fecha_fin": "05/11/2026 18:00:00",
+      "fecha_fin": "05/11/2026 18:15:25",
       "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267399&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
       "id": "SUB-JA-2026-267399",
       "es_vivienda": true,
@@ -4208,12 +4220,7 @@
       "id": "SUB-JA-2026-267494",
       "es_vivienda": true,
       "municipio": "La Casa De Almoradí",
-      "provincia": "Alicante",
-      "cantidad_reclamada": "125.666,82 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
+      "provincia": "Alicante"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-267695",
