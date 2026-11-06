@@ -1,40 +1,7 @@
 {
-  "generado": "2026-11-05T16:21:02.098604",
-  "fecha": "05/11/2026 16:21:02",
+  "generado": "2026-11-06T15:50:17.139433",
+  "fecha": "06/11/2026 15:50:17",
   "subastas": [
-    {
-      "titulo": "SUBASTA SUB-JA-2024-225227",
-      "autoridad": "JUZGADO 1ª INST E INSTRUCC. 6 - ALZIRA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 07/11/2026 a las 20:40:08]",
-      "descripcion": "FINCA REGISTRAL Nº 2.161 INSCRITA EN EL REGISTRO DE LA PROPIEDAD DE XÀTIVA",
-      "fecha_fin": "07/11/2026 20:40:08",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2024-225227&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2024-225227",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "29.017,13 €",
-      "valor_subasta": "89.954,76 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "4.497,73 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-AT-2026-26R4686001318",
-      "autoridad": "U.R. SUBASTAS VALENCIA - VALENCIA (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
-      "descripcion": "LOCAL COMERCIAL. CL/ NUEVE OCTUBRE, 52 A 1 00 01. 46520 - SAGUNT-SAGUNTO (VALEN",
-      "fecha_fin": "09/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-26R4686001318&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-AT-2026-26R4686001318",
-      "es_vivienda": false,
-      "municipio": "Sagunt-Sagunto",
-      "provincia": "Valencia",
-      "valor_subasta": "329.973,85 €",
-      "tasacion": "416.088,00 €",
-      "puja_minima": "32.997,38 €",
-      "deposito": "16.498,69 €"
-    },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001341",
       "autoridad": "U.R. SUBASTAS VALENCIA - VALENCIA (AEAT)",
@@ -84,23 +51,6 @@
       "tasacion": "72.383,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "1.130,62 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-266103",
-      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
-      "descripcion": "FINCA REGISTRAL Nº 48.058. VIVIENDA SITA EN CALLE ALCUDIA DE CRESPINS, Nº 16-2º-4ª , 46019 VALENCIA",
-      "fecha_fin": "09/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266103&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-266103",
-      "es_vivienda": true,
-      "municipio": "Calle Alcudia De Crespins",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "30.048,64 €",
-      "valor_subasta": "48.902,21 €",
-      "tasacion": "48.902,21 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "2.445,11 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-266794",
@@ -249,23 +199,6 @@
       "deposito": "4.132,08 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-262129",
-      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 16/11/2026 a las 18:00:00]",
-      "descripcion": "VIVIENDA UNIFAMILIAR señalada con el número tres, ubicada en la Calle 535, número 27 de La Cañada-Paterna.",
-      "fecha_fin": "16/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-262129&idBus=YnZzaUw5NmgrTG9zSGxNMWdVTW84RjhDc2dWK3U2cGpHM0h4cE82d3Nyakd1eEpBdkpsbGpEMVpoeXFubVI3TGhUem02ekZXSE5OUjRwRVFPdU9JL2FQcjNrdGhib1JZaXpSbk5LbVc5MjJvQkJScVIzeFpNbjVUTjEwbmdjSWlDQmdDR3ZCSkF4Wm1CQklpUk4vSWsxUHR0OGVQamlDN2RvcW5JdjVncGJNY2xmVzN2M29BODl5REVYaCs3enJZaFlENWp6Z1JjalNNa3JvdTNRRmNVdUNhc3FoVm9KYkNIRjVlb3ZlNWJqdHpaMFFPKzhRRXlobm0xNkhldURMSGZQa01HWkF5bEZXWFhMR3orM2dINDV1V2R4c1JwVWlacjRjYlBDSnNhbERWYi9qZ3RySW5pSlFnbmhLWWQrUUJQL21NQnVBWjNXeTBjbk8wUzcwSU5LYVVCWUxVeU45emJ6bnBEY2JRQm9jPQ,,--500",
-      "id": "SUB-JA-2026-262129",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Valencia",
-      "cantidad_reclamada": "441.166,26 €",
-      "valor_subasta": "441.166,26 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "22.058,31 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-264449 (2 lotes)",
       "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 16/11/2026 a las 18:00:00]",
@@ -275,7 +208,12 @@
       "id": "SUB-JA-2026-264449",
       "es_vivienda": false,
       "municipio": "",
-      "provincia": "Valencia"
+      "provincia": "Valencia",
+      "cantidad_reclamada": "735.152,69 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-266993",
@@ -1317,23 +1255,6 @@
       "deposito": "12.934,05 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-267866",
-      "autoridad": "Sección Civil TI Madrid. Plz.n 31 - MADRID",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 19/11/2026 a las 18:00:00]",
-      "descripcion": "FR 17175 inscrita en RP 53 de Madrid-Vivienda sita en calle Fermín Donaire nº 15, 2º puerta A, de Madrid",
-      "fecha_fin": "19/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267866&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-JA-2026-267866",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Madrid",
-      "cantidad_reclamada": "29.766,05 €",
-      "valor_subasta": "130.560,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "200,00 €",
-      "deposito": "6.528,00 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-23R2886001483",
       "autoridad": "U.R. SUBASTAS MADRID - MADRID (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 23/11/2026 a las 18:00:00]",
@@ -1807,57 +1728,6 @@
       "deposito": "10.200,00 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-265765",
-      "autoridad": "Sección Civil e Instrucción TI Rubí. Plz.n 6 - RUBI",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
-      "descripcion": "Lote único compuesto de dos fincas registrales.",
-      "fecha_fin": "05/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-265765&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-265765",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "197.298,47 €",
-      "valor_subasta": "222.407,50 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "11.120,37 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-266151",
-      "autoridad": "Sección Civil e Instruc TI Vilanova i la Geltrú. Plz.n 8 - VILANOVA I LA GELTRU",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
-      "descripcion": "Lote compuesto de vivienda",
-      "fecha_fin": "05/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266151&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-266151",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "703.270,59 €",
-      "valor_subasta": "923.238,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "46.161,90 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-266365",
-      "autoridad": "Sección Civil TI Badalona. Plz. n 5 - BADALONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
-      "descripcion": "ENTIDAD NÚMERO QUINIENTOS DIECIOCHO.- PISO SÉPTIMO,\n          PUERTA SEGUNDA, del bloque dieciocho del total complejo urbanístico sito en Badalona, con frente a la calle Hipólito Lázaro y Avenida Marqués de Sant Mori, que consta de varias habitaciones, dependencias y servicios: mide una superfície útil y aproximada de cincuenta y nueve metros veintiséis decímetros cuadrados. LINDA: Al Norte, con zona común del complejo urbanístico; al Sur, con puerta tercera de este\n          bloque; al Est, con zona común del complejo urbanístico; y al Oeste, con puerta primera de este bloque. CUOTA: Con respecto al complejo del 0,168 por ciento y respecto al bloque del 2,617 por ciento.",
-      "fecha_fin": "05/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266365&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-266365",
-      "es_vivienda": true,
-      "municipio": "Badalona",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "109.180,49 €",
-      "valor_subasta": "253.500,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "12.675,00 €"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-266368",
       "autoridad": "Sección Civil TI Badalona. Plz. n 6 - BADALONA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 08/11/2026 a las 17:09:21]",
@@ -2054,23 +1924,6 @@
       "deposito": "10.251,34 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-248142 (2 lotes)",
-      "autoridad": "Sección Civil TI Badalona. Plz. n 4 - BADALONA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
-      "descripcion": "Subasta con varios lotes. Lote 1: Local comercial en planta baja sito en la Avda. Doctor Robert 125-127 Bajos de Badalona.  Lote 2: Lote compuesto de vivienda y garaje",
-      "fecha_fin": "09/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-248142&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-248142",
-      "es_vivienda": true,
-      "municipio": "Planta Baja Sito En La Avda",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "91.039,23 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-257346",
       "autoridad": "Sección Civil TI Barcelona. Plz.n 3 - BARCELONA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
@@ -2256,23 +2109,6 @@
       "tasacion": "344.617,68 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "17.230,88 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-267410",
-      "autoridad": "Sección Civil e Instruc TI Vilanova i la Geltrú. Plz.n 3 - VILANOVA I LA GELTRU",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
-      "descripcion": ". Vivienda sita en Les Roquetes, Sant Pére de Ribes, Pasaje Fluvia nº 1, puerta 4ª de la planta 3ª de\n          superficie de 65,67m2.",
-      "fecha_fin": "09/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267410&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZmp4RHZhcVYzZzlkaTV2STZORmpNNmNyZnV5ZkxZTkJISTR1TjNIMENoSGdQSHlNRkErRm52aG1xMkFVNjFBbEZ4QXc4eTJQck9PL2NEUHNuRktHRFAyc0Z2cFdOam4xWUxsUGYyTE9CRlZ0TkduRTN0MURqamZWVGhMcHVhK2FMQU1iWGoxQzF1RHNyS05UNytQT2xOcVcyelNYbm9QTXlkKzlCc242cXVQbmd2Q0lTTVRtQ0VtQmVvVjhPVXVIcDBFcGRSRFhEVDFwc1VHTWNsTm5CNENnbDJLS3RpNy90bDRIY2o2cUw1U040dU1DSUg4MzVrUGZQM2d1VFJnUEpLVkh6cmpGc2tvaWJ1dVI0U29aKys3VzdNYWNRZGx4T2FnY3ZIU0psTU51L2pmc0s3clFpZUxWUmpwTnErRm5XR1FvdGtXZWttTTlXUFIzVHJOS2VBPQ,,--500",
-      "id": "SUB-JA-2026-267410",
-      "es_vivienda": true,
-      "municipio": "Les Roquetes",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "56.503,44 €",
-      "valor_subasta": "75.402,98 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "3.770,14 €"
     },
     {
       "titulo": "SUBASTA SUB-JV-2026-256273",
@@ -3407,23 +3243,6 @@
       "deposito": "58.258,65 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-267399",
-      "autoridad": "Servicio de Gestión Subastas de Alicante - ALICANTE/ALACANT",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:15:25]",
-      "descripcion": "Que la descripción de la finca a que dicha instancia se refiere con CODIGO REGISTRAL UNICO: 03024000260872, registral 15102, es como sigue: URBANA. NÚMERO CINCO. Vivienda en el piso primero izquierda, desde el descansillo de la escalera, del edificio sito en San Vicente del Raspeig, en la Calle San José, número quince de policía; es de tipo C; tiene una superficie construida de ciento dieciocho metros, cuarenta y cinco decímetros. Consta de vestíbulo, comedor, cuatro dormitorios, cocina, baño, aseo, solanas y galería a patio interior de luces que arranca desde esta planta. Linda mirando la puerta de entrada de la vivienda: Derecha con Calle San José; Izquierda, con patio del local número dos y con Mercedes Antón Guijarro; y Fondo, con Mercedes Antón Guijarro. Esta vivienda tiene derecho al uso exclusivo de la mitad del patio de luces recayente a la misma, pero sin poder edificar en él. Cuota: Representa una cuota en el valor total del inmueble y en sus elementos comunes de ocho enteros, treinta centésimas por ciento. Obra nueva terminada. Referencia  catastral: 6329005YH1562N0005SJ.",
-      "fecha_fin": "05/11/2026 18:15:25",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267399&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-JA-2026-267399",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Alicante",
-      "cantidad_reclamada": "112.847,76 €",
-      "valor_subasta": "205.200,00 €",
-      "tasacion": "205.200,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "10.260,00 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001321",
       "autoridad": "U.R. SUBASTAS VALENCIA - VALENCIA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
@@ -4007,23 +3826,6 @@
       "deposito": "8.375,00 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-266807 (3 lotes)",
-      "autoridad": "Sección Civil TI Torrevieja. Plz.n 3 - TORREVIEJA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 16/11/2026 a las 18:00:00]",
-      "descripcion": "Subasta con varios lotes. Lote 1: Vivienda en planta cuarta, es la tercera en la fachada a calle Mar Báltico, de edificio sin número en calle Dinamarca de Torrevieja, es de tipo-8, distribuida en vestíbulo, estar-comedor-cocina, dormitorio, baño y terraza. Lote 2: Urbana una diecinueve ava parte indivisa, cuya participación se concreta e individualiza en el uso exclusivo de la plaza de garaje número nueve.. Tiene una superficie aproximada de trece metros cincuenta decímetros cuadrados. Lote 3: Urbana.16. En Torrevieja, conjunto residencial PRINCIPE DE ESPAÑA Y FASE B, con fachada a calle Goleta, vivienda tipo siete en planta primera. Es la primera de la izquierda.Está distribuida en varias dependencias, servicios y terraza.",
-      "fecha_fin": "16/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266807&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-JA-2026-266807",
-      "es_vivienda": true,
-      "municipio": "Planta Cuarta",
-      "provincia": "Alicante",
-      "cantidad_reclamada": "102.568,65 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-266970 (28 lotes)",
       "autoridad": "Sección Civil TI Orihuela. Plz.n 4 - ORIHUELA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 16/11/2026 a las 18:00:00]",
@@ -4220,7 +4022,12 @@
       "id": "SUB-JA-2026-267494",
       "es_vivienda": true,
       "municipio": "La Casa De Almoradí",
-      "provincia": "Alicante"
+      "provincia": "Alicante",
+      "cantidad_reclamada": "125.666,82 €",
+      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
+      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
+      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
+      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-267695",
@@ -4306,39 +4113,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "6.471,05 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JV-2026-267951 (10 lotes)",
-      "autoridad": "Servicio de Gestión Subastas de València - VALENCIA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 19/11/2026 a las 18:00:00]",
-      "descripcion": "Subasta con varios lotes. Lote 1: FINCA REGISTRAL 24.975. Tierra secano monte, urbanizable sito\n          en el término de Jávea, Partida la Guardia, Zona Granadella, Letra C en el plano que se incorpora a la escritura. Inscrita en el Registro de la Propiedad al Tomo 1160, Libro 283, Folio 104. Lote 2: FINCA REGISTRAL 24.977 Parcela de terreno sito en el término de\n          Jávea, Partida la Guardia, Zona Granadella, señalado con la Letra D. Inscrita en el Registro de la Propiedad al Tomo 1160, Libro 283, Folio 106. (Consúltese certificado de dominio y cargas). Lote 3: FINCA REGISTRAL 24.971 Tierra secano monte, urbanizable sito\n          en el término de Jávea, Partida la Guardia, Zona Granadella, señalado con la Letra A en el plano que se incorpora a la escritura. Inscrita en el Registro de la Propiedad al Tomo 1160, Libro 283, Folio 100. (Consúltese certificado de dominio y cargas). Lote 4: FINCA REGISTRAL 27902 Parcela de terreno sito en el término de\n          Jávea, Partida la Guardia, Zona Granadella. Inscrita en el Registro de la Propiedad al Tomo 1274, Libro 354, Folio 121. (Consúltese certificado de dominio y cargas). Lote 5: FINCA REGISTRAL 40.525 Parcela de terreno sito en el término de\n          Jávea, Partida la Guardia, Zona Granadella. Identificada como la parcela G-53 de la parcelación COSTANOVA GRANADELLA-3. Inscrita en el Registro de la Propiedad al Tomo 1817, Libro 677, Folio .175. (Consúltese certificado de dominio y cargas). Lote 6: FINCA REGISTRAL 40.527 Parcela de terreno sito en el término de\n          Jávea, Partida la Guardia, Zona Granadella. Identificada como la parcela G-55 de la parcelación COSTANOVA GRANADELLA-3. Inscrita en el Registro de la Propiedad al Tomo 1817, Libro 677, Folio 178. (Consúltese certificado de dominio y cargas). Lote 7: FINCA REGISTRAL 40529 Parcela de terreno sito en el término de Jávea, Partida la Guardia, Zona Granadella.. Identificada como la parcela G-57 de la parcelación COSTANOVA GRANADELLA-3. Inscrita en el Registro de la Propiedad al Tomo 1817, Libro 677, Folio 181. (Consúltese certificado de dominio y cargas). Lote 8: FINCA REGISTRAL 40531 Parcela de terreno sito en el término de Jávea, Partida la Guardia, Zona Granadella.. Identificada como la parcela G-59 de la parcelación COSTANOVA GRANADELLA-3. Inscrita en el Registro de la Propiedad al Tomo 1817, Libro 677, Folio 184. (Consúltese certificado de dominio y cargas). Lote 9: FINCA REGISTRAL 40533 Parcela de terreno sito en el término de Jávea, Partida la Guardia, Zona Granadella. Identificada como la parcela G-61 de la parcelación COSTANOVA GRANADELLA-3. Inscrita en el Registro de la Propiedad al Tomo 1817, Libro 677, Folio 187. (Consúltese certificado de dominio y cargas). Lote 10: FINCA REGISTRAL 40535 Parcela de terreno sito en el término de Jávea, Partida la Guardia, Zona Granadella. Identificada como la parcela G-63 de la parcelación COSTANOVA GRANADELLA-3. Inscrita en el Registro de la Propiedad al Tomo 1817, Libro 677, Folio 190. (Consúltese certificado de dominio y cargas).",
-      "fecha_fin": "19/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JV-2026-267951&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-JV-2026-267951",
-      "es_vivienda": false,
-      "municipio": "El Término De Jávea",
-      "provincia": "Alicante",
-      "cantidad_reclamada": "1.126.702,73 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
-      "titulo": "SUBASTA SUB-AT-2026-25R4686001511",
-      "autoridad": "U.R. SUBASTAS VALENCIA - VALENCIA (AEAT)",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 23/11/2026 a las 18:00:00]",
-      "descripcion": "VIVIENDA. CL/ MUSICO CARLOS COSMEN, 23. 03112 - ALACANT-ALICANTE (ALICANTE)",
-      "fecha_fin": "23/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-AT-2026-25R4686001511&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptSlVGeU1UUGs3bVZueEdtK3VRdXd6ZmFxeC9jbUtXWlZTVjB0SklqbnZacGZZVlVJcGJpM3ZhTXZJK0MweEp1ZnVsTzhMWTRwWTZ5YWtNNHRtc2h2dDVzb1dmMHhpd0NOVHJiOVViOWNTVHZiUk5FdnVKZDJzdFRoUlZWb1Y4UGF3c29qcFpHbjRZL3A1YXFUaktVUkx2aFFiQmdTZm5IbHJsMDNLSGFnTUgyTFB5QVo2L0x3ZTZWSlN5NjQ5OFljcWx1dnFmZ1pFbmp0bnJZd3c1NkJFN2ttS2ErSHQ5ZFh1aHVKSjdkSmpxVTBKNjl2VE14RDE3L2EvSmtMSG5tVHU5VDNjUXpGcFQ0QkNmRllMVitNUitsZjBDUUtjQlRuMk9NOUNzVW52RjVXSnAxZDFUTlhCQ040bTlCOTEyTlVXVC9ZTDM3Ry9HU3ZZbWJJL3VibEdJPQ,,--500",
-      "id": "SUB-AT-2026-25R4686001511",
-      "es_vivienda": true,
-      "municipio": "Alacant-Alicante",
-      "provincia": "Alicante",
-      "valor_subasta": "172.381,54 €",
-      "tasacion": "442.381,54 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "8.619,07 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001257",
@@ -4640,23 +4414,6 @@
       "deposito": "6.924,52 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2025-255341",
-      "autoridad": "Sección Civil TI Torremolinos. Plz. n 5 - TORREMOLINOS",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 05/11/2026 a las 18:00:00]",
-      "descripcion": "Finca registral 39.924, inscrita en el Registro de la Propiedad n.º 2 de Benalmádena. Dirección C/Poseidón n.º 6 (Urb. Jardines de Torrequebrada), Bloque 1.º B, Bajo Puerta G, \n          29639,Benalmádena",
-      "fecha_fin": "05/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2025-255341&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2025-255341",
-      "es_vivienda": false,
-      "municipio": "El Registro De La Propiedad N",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "107.760,15 €",
-      "valor_subasta": "195.100,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "9.755,00 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R2986001059",
       "autoridad": "U.R. SUBASTAS ANDALUCÍA 29 - MALAGA (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
@@ -4809,23 +4566,6 @@
       "deposito": "9.075,00 €"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-267304 (38 lotes)",
-      "autoridad": "Sección Civil TI Torremolinos. Plz. n 1 - TORREMOLINOS",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
-      "descripcion": "Subasta con varios lotes. Lote 1: FINCA REGISTRAL 47.696. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de DISERMOBIL MALAGA, S.L., por compraventa en virtud de escritura\n          pública autorizada el día 23 de diciembre de 2020, por el Notario de Madrid D. Antonio\n          Luis Reina Guitierrez, con número de protocolo 10.188, según consta en la inscripción\n          5ª, de fecha 23 de noviembre de 2021, obrante al Tomo 1895, Libro 1325, folio 157 Lote 2: FINCA REGISTRAL 47698. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el numero 2535 de su protocolo, según consta en la\n          inscripción 9ª, de fecha 26 de febrero de 2026. Lote 3: FINCA REGISTRAL 47700. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 9ª, de fecha 26 de febrero de 2026.\n           Lote 4: FINCA REGISTRAL 47702. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026. Lote 5: FINCA REGISTRAL 47.704. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026 Lote 6:  Finca registral 47.706, CRU: 29035000862124. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026. Lote 7: Finca registral 47.708., CRU: 29035000862131. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026 Lote 8:  Finca registral 47.710, CRU: 29035000862148. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026.\n           Lote 9:  Finca registral 47.712, CRU: 29035000862155. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026.\n          \n           Lote 10:  Finca registral 47.714, CRU: 29035000862162. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026. Lote 11: • Finca registral 47.716, CRU: 29035000862179. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026.\n           Lote 12:  Finca registral 47.718, CRU: 29035000862186. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026. Lote 13:  Finca registral 47.720, CRU: 29035000862193, INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026.\n          \n           Lote 14: • Finca registral 47.722, CRU: 29035000862209, INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026.\n           Lote 15:  Finca registral 47.724, CRU: 29035000862216. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026.\n           Lote 16: Finca registral 47.726, CRU: 29035000862223. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de DISERMOBIL MALAGA, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Benalmádena, ante el Notario Don Manuel Montoya Molina, el dia\n          07 de septiembre de 2022, con el número 2098 de su protocolo, según consta en la\n          inscripción 7ª,. la inscripción 7ª, de fecha 21 de septiembre de 2022, obrante al Tomo\n          1848, Libro 1278, folio 207.\n           Lote 17: Finca registral 47.728, CRU: 29035000862230. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 9ª, de fecha 26 de febrero de 2026. Lote 18:  Finca registral 47.730, CRU: 29035000862247. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026 Lote 19: Finca registral 47.732, CRU: 29035000862254. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026\n           Lote 20: Finca registral 47.734, CRU: 29035000862261\n           Lote 21: Finca registral 47.736, CRU: 29035000862278. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 9ª, de fecha 26 de febrero de 2026. Lote 22:  Finca registral 47.738, CRU: 29035000862285. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026. Lote 23: Finca registral 47.740, CRU: 29035000862292. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026 Lote 24: • Finca registral 47.742, CRU: 29035000862308. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026.\n           Lote 25:  Finca registral 47.744, CRU: 29035000862315. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 9ª, de fecha 26 de febrero de 2026 Lote 26: • Finca registral 47.746, CRU: 29035000862322. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026.\n           Lote 27: Finca registral 47.748, CRU: 29035000862339. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026. Lote 28:  Finca registral 47.750, CRU: 29035000862346. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026. Lote 29: • Finca registral 47.752, CRU: 29035000862353. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 7ª, de fecha 26 de febrero de 2026. Lote 30: • Finca registral 47.770, CRU: 29035000862445. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 5ª, de fecha 26 de febrero de 2026. Lote 31: Finca registral 47.772, CRU: 29035000862452. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 5ª, de fecha 26 de febrero de 2026. Lote 32: • Finca registral 47.774, CRU: 29035000862469. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 5ª, de fecha 26 de febrero de 2026. Lote 33:  Finca registral 47.838, CRU: 29035000862780. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 9ª, de fecha 26 de febrero de 2026.\n           Lote 34:  Finca registral 47.840, CRU: 29035000862797. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 5ª, de fecha 26 de febrero de 2026. Lote 35:  Finca registral 47.844, CRU: 29035000862810. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 5ª, de fecha 26 de febrero de 2026. Lote 36:  Finca registral 47.846, CRU: 29035000862827. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 5ª, de fecha 26 de febrero de 2026.\n           Lote 37: Finca registral 47.848, CRU: 29035000862834. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 5ª, de fecha 26 de febrero de 2026.\n           Lote 38:  Finca registral 47.850, CRU: 29035000862841. INSCRIPCIÓN: Registro de la Propiedad de Benalmádena nº 2. Pleno dominio inscrito\n          a favor de INVERSIONES ROSAYAR, S.L., por compraventa en virtud de escritura\n          pública, autorizada en Fuengirola, ante el Notario Don Gregorio Isidro Martin Mayoral,\n          el dia 07 de junio de 2022, con el número 2535 de su protocolo, según consta en la\n          inscripción 5ª, de fecha 26 de febrero de 2026.",
-      "fecha_fin": "09/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267304&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-267304",
-      "es_vivienda": false,
-      "municipio": "Fuengirola",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "9.000.651,97 €",
-      "valor_subasta": "Ver valor de subasta en cada lote(los lotes se subastan de forma independiente)",
-      "tasacion": "Ver valor de tasación en cada lote(los lotes se subastan de forma independiente)",
-      "puja_minima": "Ver puja mínima de cada lote(adjudicación independiente)",
-      "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
-    },
-    {
       "titulo": "SUBASTA SUB-JA-2026-267417",
       "autoridad": "Sección Civil e Instrucción TI Estepona. Plz.n 2 - ESTEPONA",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
@@ -4841,23 +4581,6 @@
       "tasacion": "182.274,60 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "9.113,73 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-267419",
-      "autoridad": "Sección Civil TI Málaga. Plz.n 3 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 09/11/2026 a las 18:00:00]",
-      "descripcion": "FINCA REGISTRAL Nº 8.637, REGISTRO DE LA PROPIEDAD Nº SIETE, al tomo libro 291, tomo 580, folio 216",
-      "fecha_fin": "09/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-267419&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-267419",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "77.470,64 €",
-      "valor_subasta": "248.405,00 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "49.681,00 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2024-236238",
@@ -4892,23 +4615,6 @@
       "tasacion": "0,00 €",
       "puja_minima": "Sin puja mínima",
       "deposito": "26.208,00 €"
-    },
-    {
-      "titulo": "SUBASTA SUB-JA-2026-261366",
-      "autoridad": "Sección Civil TI Málaga. Plz.n 18 - MALAGA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 11/11/2026 a las 18:00:00]",
-      "descripcion": "REGISTRO DE LA PROPIEDAD Nº 12 DE MÁLAGA, inscrita al folio 74, tomo 2114, libro 110.",
-      "fecha_fin": "11/11/2026 18:00:00",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-261366&idBus=cmN4VGgycVZtckZ2NG9jRk1pNGptTDRwbU9WekxaZ1BYeHpxSzZiSXBHY1ByUGVkejFxOFdReVRjOEErd0x3QkUxWkE0cmtQbWZpNkpnY0R2SFJid2ErallVZFp1OHNWNVpKMG1GWkhDN2VIMXY0dTNqL1hSSGF1ME5rVWJ6VXRENmpoSkxRZlYyN2pWOXFCSkJmMzZVWFRTZTRSY09zeDdPM0dlZ3BDUEozVVYvT1NlMlg2dmxjOHJ2MnEzb2RMQzd3K1Fjdm1IeUoycVVXL21OeGE5b0V0SUVzSUMzT0dCcnZXdHRSWnVqRnQxYVlEaHA3RjlMR2U5Q2pxZEppdVBmVmZhWEFwZ3dYZGFaODdlV28rVTljeXBick5GbzZEaTRkZU04cEEvQXpPNVJadjZVdVVUdUprU1VRNTU5K2NVNWlNdW9aeXhueDdtYmhSQVFLWHFPTzZGeFl6K0kzMFRUK1pSb0plOXhNPQ,,--500",
-      "id": "SUB-JA-2026-261366",
-      "es_vivienda": false,
-      "municipio": "",
-      "provincia": "Málaga",
-      "cantidad_reclamada": "144.471,29 €",
-      "valor_subasta": "258.646,25 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "12.932,31 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-265401 (2 lotes)",
