@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-07T14:50:03.278391",
-  "fecha": "07/11/2026 14:50:03",
+  "generado": "2026-11-08T14:56:43.337536",
+  "fecha": "08/11/2026 14:56:43",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001341",
@@ -2035,12 +2035,7 @@
       "id": "SUB-JA-2026-257346",
       "es_vivienda": true,
       "municipio": "Viladecans",
-      "provincia": "Barcelona",
-      "cantidad_reclamada": "26.000,00 €",
-      "valor_subasta": "164.479,32 €",
-      "tasacion": "0,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "8.223,97 €"
+      "provincia": "Barcelona"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-260423",
