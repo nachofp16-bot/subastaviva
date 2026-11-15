@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-14T14:55:30.101803",
-  "fecha": "14/11/2026 14:55:30",
+  "generado": "2026-11-15T15:32:44.290113",
+  "fecha": "15/11/2026 15:32:44",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-25R4686001555",
@@ -870,23 +870,6 @@
       "deposito": "Ver importe de consignación de cada lote(adjudicación independiente)"
     },
     {
-      "titulo": "SUBASTA SUB-JA-2026-266140",
-      "autoridad": "Sec. Civil e Inst. TI Collado Villalba. Plz.n 4 - COLLADO VILLALBA",
-      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 14/11/2026 a las 16:40:56]",
-      "descripcion": "PISO EN ALPEDRETE (MADRID) 89 METROS, CON GARAJE",
-      "fecha_fin": "14/11/2026 16:40:56",
-      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2026-266140&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
-      "id": "SUB-JA-2026-266140",
-      "es_vivienda": true,
-      "municipio": "",
-      "provincia": "Madrid",
-      "cantidad_reclamada": "112.721,80 €",
-      "valor_subasta": "207.100,00 €",
-      "tasacion": "207.100,00 €",
-      "puja_minima": "Sin puja mínima",
-      "deposito": "10.355,00 €"
-    },
-    {
       "titulo": "SUBASTA SUB-AT-2026-26R2886001268",
       "autoridad": "U.R. SUBASTAS MADRID - MADRID (AEAT)",
       "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 16/11/2026 a las 18:00:00]",
@@ -1200,6 +1183,23 @@
       "tasacion": "102.512,77 €",
       "puja_minima": "51.256,39 €",
       "deposito": "5.125,64 €"
+    },
+    {
+      "titulo": "SUBASTA SUB-JA-2025-246146",
+      "autoridad": "JUZGADO 1 INSTANCIA 45 - MADRID",
+      "estado_txt": "Estado: Celebrándose - [Conclusión prevista: 17/11/2026 a las 13:48:39]",
+      "descripcion": "FINCA REGISTRAL Nº2213  SITA EN C/BARCO Nº27 MADRID",
+      "fecha_fin": "17/11/2026 13:48:39",
+      "url": "https://subastas.boe.es/detalleSubasta.php?idSub=SUB-JA-2025-246146&idBus=NW5oQ0dSSTlWYUJKVDJzSHZKbFlKZWJ5RjVkRmhuV2tLaWZlM1ZXRFdINVp1eFlIUCtIZ3hzQWRESWxqampWb0JSTWViK3o5OExmMmZEbXNEVElYYVNOWlV1UDRXc0pZQjFrQnRSMEd6eUJRMFQvcVlqZlozdTEvTUtRL0Q5US9uaXlHR1RRNkQvRjMxYnhuQmYwSE1BT2orcVplT3A2RWJZMXV1NEZLb2w3YkVlbzg2Y21qMkNYczlFeTVWZThTK0thYzRiYkR5eXh4WFVTWkFwa0w2QmlCMGI4azZYUjZhUFp0eTIwLzJjWlVXWk8xaEZ2cEN2RThwektyUXNzaEtONnJOZGVISFIrenBBd2dDSmdxUkVmRWdoaDhZeXpKVFZiRURLdkR5UWc4RGFaR1NUZ3R5blpkN29PTktuVVJ4RTJhdC9FcEVtNUozMkVnOURUT1FFcHpJK2tUQ0Q0SFZGVXNmRyt6NlNzPQ,,--500",
+      "id": "SUB-JA-2025-246146",
+      "es_vivienda": false,
+      "municipio": "",
+      "provincia": "Madrid",
+      "cantidad_reclamada": "6.953,30 €",
+      "valor_subasta": "325.095,43 €",
+      "tasacion": "325.095,43 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "16.254,77 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-267559",
@@ -2901,7 +2901,12 @@
       "id": "SUB-JA-2026-267293",
       "es_vivienda": true,
       "municipio": "Tordera",
-      "provincia": "Barcelona"
+      "provincia": "Barcelona",
+      "cantidad_reclamada": "60.791,32 €",
+      "valor_subasta": "189.750,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "9.487,50 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-267657",
@@ -5149,7 +5154,11 @@
       "id": "SUB-AT-2026-26R2986001065",
       "es_vivienda": true,
       "municipio": "Mijas",
-      "provincia": "Málaga"
+      "provincia": "Málaga",
+      "valor_subasta": "99.821,78 €",
+      "tasacion": "124.777,23 €",
+      "puja_minima": "9.982,18 €",
+      "deposito": "4.991,08 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2025-254478",
