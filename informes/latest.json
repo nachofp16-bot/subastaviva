@@ -1,6 +1,6 @@
 {
-  "generado": "2026-11-21T16:01:44.525103",
-  "fecha": "21/11/2026 16:01:44",
+  "generado": "2026-11-22T16:08:07.126802",
+  "fecha": "22/11/2026 16:08:07",
   "subastas": [
     {
       "titulo": "SUBASTA SUB-AT-2026-26R4686001215",
@@ -2347,7 +2347,11 @@
       "id": "SUB-AT-2026-26R0886001404",
       "es_vivienda": true,
       "municipio": "Berga",
-      "provincia": "Barcelona"
+      "provincia": "Barcelona",
+      "valor_subasta": "12.037,13 €",
+      "tasacion": "15.046,42 €",
+      "puja_minima": "1.203,71 €",
+      "deposito": "601,85 €"
     },
     {
       "titulo": "SUBASTA SUB-AT-2026-26R0886001405",
@@ -4098,7 +4102,12 @@
       "id": "SUB-JA-2026-266127",
       "es_vivienda": true,
       "municipio": "",
-      "provincia": "Alicante"
+      "provincia": "Alicante",
+      "cantidad_reclamada": "142.445,97 €",
+      "valor_subasta": "244.382,00 €",
+      "tasacion": "0,00 €",
+      "puja_minima": "Sin puja mínima",
+      "deposito": "12.219,10 €"
     },
     {
       "titulo": "SUBASTA SUB-JA-2026-266396",
